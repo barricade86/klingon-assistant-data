@@ -1488,7 +1488,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/kWP0lgIYMBA}</column>
       <column name="definition_de">Mögest du ehrenvoll sterben.</column>
       <column name="definition_fa"></column>
       <column name="definition_sv"></column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Желаю тебе умереть с честью</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1505,7 +1505,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/kWP0lgIYMBA}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru">Желаю тебе умереть достойно</column>
+      <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -3228,7 +3228,7 @@ The elements of the name of this weapon are archaic, but it means "sword of hono
 ▶ {Hegh bey:sen:nolink}
  {HeghDI' tlhIngan SuvwI' pagh tlhIngan SuvwI' HoHlu'DI' Heghtay lulop latlh tlhInganpu'. Heghtay luloptaHvIS chaH chaq bey SeQ lujach.Heghpu'bogh tlhIngan mInDu' lupoSmoHlu'. beyHom bey bey'a' jachtaH latlh tlhInganpu'. yay 'oS bey. 'IQ pagh. Heghpu'bogh latlhpu' ghuHmoH bey.ghey. ghoS tlhIngan SuvwI' maq.:sen:nolink}
 "Смертельный вой.
- Когда клингонский воин умирает или его убивают, другие клингоны могут исполнять церемониальный вой или вопль, как часть клингонского смертельного ритуала. Глаза павшего клингона открыты, и остальные рычать в огромном нарастающем темпе. Этот вой скорее победоносный, нежели печальный. Также служит предупреждением, что идет клингонский воин
+ Когда клингонский воин умирает или его убивают, другие клингоны могут исполнять церемониальный вой или вопль, как часть клингонского смертельного ритуала. Глаза павшего клингона открыты, и остальные рычать в огромном нарастающем темпе. По природе этот вой скорее победоносный, нежели печальный. Также служит предупреждением другим умершим, что идет клингонский воин
 </column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
@@ -3320,7 +3320,7 @@ The elements of the name of this weapon are archaic, but it means "sword of hono
       <column name="definition_de">Zeremonialständer</column>
       <column name="definition_fa"></column>
       <column name="definition_sv">ceremoniell utställning, ceremoniell uppvisning</column>
-      <column name="definition_ru">Церемониальый показ</column>
+      <column name="definition_ru">Церемониальный показ</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3356,7 +3356,7 @@ The elements of the name of this weapon are archaic, but it means "sword of hono
       <column name="definition_de">Frau, Weibchen</column>
       <column name="definition_fa"></column>
       <column name="definition_sv">kvinna, hona</column>
-      <column name="definition_ru">самка, женщина, женский пол</column>
+      <column name="definition_ru">Самка, женщина, женский пол</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3468,7 +3468,7 @@ The elements of the name of this weapon are archaic, but it means "sword of hono
       <column name="definition_de">Ehefrau, Gattin</column>
       <column name="definition_fa"></column>
       <column name="definition_sv">maka, hustru, fru</column>
-      <column name="definition_ru">жена</column>
+      <column name="definition_ru">Жена</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3843,7 +3843,7 @@ The imperative verb prefix when {bIH:n:nolink} is the object is {tI-:v:pref}.</c
       <column name="definition_de">Wenn du Angst vor dem Sterben hast, bist du schon gestorben.</column>
       <column name="definition_fa"></column>
       <column name="definition_sv"></column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Если ты боишься умереть, ты уже умер</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3852,7 +3852,7 @@ The imperative verb prefix when {bIH:n:nolink} is the object is {tI-:v:pref}.</c
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru">Если ты боишься умереть, ты уже умер</column>
+      <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{bI-:v}, {Hegh:v}, {-vIp:v}, {-chugh:v}, {bI-:v}, {Hegh:v}, {-pu':v}</column>
@@ -4315,7 +4315,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/NpFDKTzINH8}</column>
       <column name="definition_de">zweite Note der neunstufigen Tonleiter</column>
       <column name="definition_fa"></column>
       <column name="definition_sv">andra tonen på den nonatoniska skalan</column>
-      <column name="definition_ru">вторая интонация неатонической музыкальной шкалы</column>
+      <column name="definition_ru">Вторая интонация неатонической музыкальной шкалы</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4599,7 +4599,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/NpFDKTzINH8}</column>
       <column name="definition_de">bedeutungslose Verbalkonstruktion</column>
       <column name="definition_fa"></column>
       <column name="definition_sv"></column>
-      <column name="definition_ru">ничего не значащая фраза</column>
+      <column name="definition_ru">Ничего не значащая фраза</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4811,7 +4811,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/NpFDKTzINH8}</column>
       <column name="definition_de">sich komplett irren</column>
       <column name="definition_fa"></column>
       <column name="definition_sv"></column>
-      <column name="definition_ru">Быть совсем неправым, быть абсолютно неправым</column>
+      <column name="definition_ru">Быть очень неправым, быть абсолютно неправым</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4829,7 +4829,9 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/NpFDKTzINH8}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+          ▶ {bIQ ngaS HIvje'lIj.:sen:nolink} "Вы все неправы."
+      </column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -4919,7 +4921,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/NpFDKTzINH8}</column>
       <column name="definition_de">Wenn du bei Targs schläfst, wachst du mit Glob-Fliegen auf.</column>
       <column name="definition_fa"></column>
       <column name="definition_sv"></column>
-      <column name="definition_ru">Если ты спишь с таргами, ты проснешься с круглыми мухами</column>
+      <column name="definition_ru">Если ты спишь с таргами, ты проснешься в кругу мух</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5247,7 +5249,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/NpFDKTzINH8}</column>
       <column name="definition_de">Brak'lul (Überfluss der Klingonischen Körperteile)</column>
       <column name="definition_fa"></column>
       <column name="definition_sv"></column>
-      <column name="definition_ru">brak'lul (лишние части тела)</column>
+      <column name="definition_ru">brak'lul (дублирование в частях тела)</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5566,7 +5568,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/NpFDKTzINH8}</column>
       <column name="definition_de">Wenn du verhandeln musst, beobachte die Augen deines Feindes.</column>
       <column name="definition_fa"></column>
       <column name="definition_sv"></column>
-      <column name="definition_ru">Если ты должен вести переговоры, смотри за глазами своего врага</column>
+      <column name="definition_ru">Если ты должен вести переговоры, наблюдай за глазами своего врага</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6451,7 +6453,7 @@ When used with {-lu':v}, this prefix means "Someone (indefinite subject) does so
       <column name="definition_de">Klingonen werden geboren, werden zu Kriegern und sterben dann.</column>
       <column name="definition_fa"></column>
       <column name="definition_sv"></column>
-      <column name="definition_ru">Клингоны родились воинами, живут как воины, а затем умирают</column>
+      <column name="definition_ru">Клингоны родились, живут как воины, а затем умирают</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7171,7 +7173,7 @@ When used with {-lu':v}, this prefix means "Someone (indefinite subject) does so
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">деление</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {HQ 9.3, Sept. 2000:src}</column>
     </table>
@@ -7278,7 +7280,7 @@ When used with {-lu':v}, this prefix means "Someone (indefinite subject) does so
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">помощник</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
