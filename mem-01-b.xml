@@ -2070,7 +2070,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/kWP0lgIYMBA}</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru">Отсылка к человеку, который укладывает кровельные дранки,доски и т.д., когда сооружает крышу.</column>
+      <column name="notes_ru">Это относится к человеку, который укладывает кровельные дранки,доски и т.д., когда сооружает крышу.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{majyang:n}, {mutlh:v}, {-wI':v}</column>
@@ -3015,7 +3015,7 @@ To say "when I was X years old", the construction is, for example, {qaStaHvIS DI
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru">Это отсылка к финальной секции представления(последняя ария в опере, последняя речь в игре, последнее предложение в речи истории и т.д)</column>
+      <column name="notes_ru">Это относится к финальной секции представления(последняя ария в опере, последняя речь в игре, последнее предложение в речи истории и т.д)</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">This is a reference to Bertram from Shakespeare's "All's Well That Ends Well".</column>
       <column name="components"></column>
@@ -3051,7 +3051,7 @@ To say "when I was X years old", the construction is, for example, {qaStaHvIS DI
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru">Отсылка к состоянию материи</column>
+      <column name="notes_ru">Это относится к состоянию материи</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">Bette Graham was the inventor of liquid paper (correction fluid).</column>
       <column name="components"></column>
@@ -6160,7 +6160,7 @@ To answer in the negative, say {ghobe':excl} or {jItlhutlh vIneHbe'} "I don't wa
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Это относится к начальному разделу представления (первый акт, сцена, предложение, и т.д.).</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">These are the first two syllables of the Torah.</column>
       <column name="components"></column>
@@ -6311,7 +6311,7 @@ When used with {-lu':v}, this prefix means "Someone (indefinite subject) does so
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Это идиома, {boch; ghIch rur}.[2, p.133]</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -6453,7 +6453,7 @@ When used with {-lu':v}, this prefix means "Someone (indefinite subject) does so
       <column name="definition_de">Klingonen werden geboren, werden zu Kriegern und sterben dann.</column>
       <column name="definition_fa"></column>
       <column name="definition_sv"></column>
-      <column name="definition_ru">Клингоны родились, живут как воины, а затем умирают</column>
+      <column name="definition_ru">Клингоны рождаются, живут как воины, а затем умирают</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7463,7 +7463,37 @@ DSC {pIqaD:n:nolink} Schriftart: {Quvar:n:name,nolink} (Lieven L. Litaer)
 Ein besonderer Dank richtet sich an Marc Okrand ({marq 'oqranD:n:name}) für das Erschaffen der klingonischen Sprache.</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">
+          {tlhIngan Hol boQwI':n:nolink} "Помощник по Клингонскому языку" - database version [[VERSION]].
+
+          Чтобы начать поиски, просто нажмите кнопку "Поиск" (увеличительное стекло) и печатайте в строке поиска
+
+          Чтобы услышать звуки на Клингонском языке, вам необходимо установить {Text-To-Speech engine:url:https://play.google.com/store/apps/details?id=org.tlhInganHol.android.klingonttsengine}
+
+          Рекомендуется установить {Klingon Keyboard for ASK:url:https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.tlhIngan}. Тем не менее, чтобы облегчить процесс печати текста на клингонском на мобильной клавиатуре, стеганография (под названием "xifan hol")  может быть активирована в меню Preferences:
+
+          c ▶ {ch:sen:nolink} / d ▶ {D:sen:nolink} / f ▶ {ng:sen:nolink} / g ▶ {gh:sen:nolink} / h ▶ {H:sen:nolink} /
+          i ▶ {I:sen:nolink} / k ▶ {Q:sen:nolink} / s ▶ {S:sen:nolink} / x ▶ {tlh:sen:nolink} / z ▶ {':sen:nolink}
+          It is also possible to choose the alternate keymapping:
+          k ▶ {q:sen:nolink} / q ▶ {Q:sen:nolink}
+
+          Если вы столкнетесь с какими-либо проблемами, или у вас появятся предложения, пожалуйста отправьте сообщение на {email at De.vID.jonpIn@gmail.com:url:mailto:De.vID.jonpIn@gmail.com?subject=boQwI%27%20feedback&amp;body=Device:%20%0D%0AAndroid%20version:%20%0D%0A}
+
+          Поддержите Клингонский язык, купив {The Klingon Dictionary:src}, {Klingon for the Galactic Traveler:src}, {The Klingon Way:src}, {Conversational Klingon:src}, {Power Klingon:src}, и другую продукцию, связанную со Стар Трэком и Клингонами , от Pocket Books, Simon &amp; Schuster, and Paramount/Viacom/CBS Entertainment.
+
+          Klingon, Star Trek, and related marks are trademarks of CBS Studios, Inc., and are used under "fair use" guidelines.
+          Клингонский язык, Стар Трек, и связанные марки и торговые марки CBS Studios, Inc., использованы согласно рекомендациям доктрины "Добросовестного использования".
+
+          Программирование под Android: {De'vID:n:name}
+          Flutter (iOS) port: Daniel Dadap
+          Клингоно-агнглийская информация: {De'vID:n:name,nolink}, with help from others
+          Переводы на немецкий язык: {Quvar:n:name} (Lieven L. Litaer)
+          Переводы на шведский язык: {Klingonska Akademien:url:http://klingonska.org/}
+          TNG {pIqaD:n} font: Admiral {qurgh lungqIj:n:name,nolink} of the {Klingon Assault Group:url:http://www.kag.org/}
+          DSC {pIqaD:n:nolink} font: {Quvar:n:name,nolink} (Lieven L. Litaer)
+
+          Особая благодарность Марку Окранду ({marq 'oqranD:n:name}) за создание Клингонского язык.
+      </column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{boQ:v}, {-wI':v}</column>
