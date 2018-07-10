@@ -1488,7 +1488,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/kWP0lgIYMBA}</column>
       <column name="definition_de">Mögest du ehrenvoll sterben.</column>
       <column name="definition_fa"></column>
       <column name="definition_sv"></column>
-      <column name="definition_ru">Желаю тебе умереть с честью</column>
+      <column name="definition_ru">Пусть ты умрешь с честью</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3228,7 +3228,7 @@ The elements of the name of this weapon are archaic, but it means "sword of hono
 ▶ {Hegh bey:sen:nolink}
  {HeghDI' tlhIngan SuvwI' pagh tlhIngan SuvwI' HoHlu'DI' Heghtay lulop latlh tlhInganpu'. Heghtay luloptaHvIS chaH chaq bey SeQ lujach.Heghpu'bogh tlhIngan mInDu' lupoSmoHlu'. beyHom bey bey'a' jachtaH latlh tlhInganpu'. yay 'oS bey. 'IQ pagh. Heghpu'bogh latlhpu' ghuHmoH bey.ghey. ghoS tlhIngan SuvwI' maq.:sen:nolink}
 "Смертельный вой.
- Когда клингонский воин умирает или его убивают, другие клингоны могут исполнять церемониальный вой или вопль, как часть клингонского смертельного ритуала. Глаза павшего клингона открыты, и остальные рычать в огромном нарастающем темпе. По природе этот вой скорее победоносный, нежели печальный. Также служит предупреждением другим умершим, что идет клингонский воин
+ Когда клингонский воин умирает или его убивают, другие клингоны могут исполнять церемониальный вой или крик, как часть клингонского смертельного ритуала. Глаза павшего клингона открыты, и остальные рычат в нарастающем объеме. По природе этот вой скорее победоносный, нежели печальный. Также служит предупреждением другим умершим, что идет клингонский воин
 </column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
@@ -5638,7 +5638,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/NpFDKTzINH8}</column>
       <column name="definition_de">Mögest du im Kampf sterben!</column>
       <column name="definition_fa"></column>
       <column name="definition_sv"></column>
-      <column name="definition_ru">Желаю тебе умереть в битве</column>
+      <column name="definition_ru">Пусть ты умрешь в битве</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
