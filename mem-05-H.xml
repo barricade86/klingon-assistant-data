@@ -41,7 +41,7 @@
       <column name="definition_de">glatt</column>
       <column name="definition_fa">صاف بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara jämn, vara slät</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть гладким, быть плавным, быть без затруднений, быть однородным</column>
       <column name="definition_zh_HK">順利 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{ghegh:v}, {vIl:v:1}</column>
@@ -59,7 +59,8 @@
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {Hab SoSlI' Quch!:sen}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -77,7 +78,7 @@
       <column name="definition_de">Deine Mutter hat eine glatte Stirn!</column>
       <column name="definition_fa">مادر شما دارای پیشانی صاف است! [AUTOTRANSLATED]</column>
       <column name="definition_sv">Din mamma har en slät panna! [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">У твоей матери плоский лоб!</column>
       <column name="definition_zh_HK">你媽媽額頭很光滑！ [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -86,7 +87,7 @@
       <column name="notes_de">Dies ist eine schwere Beleidigung.</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Является классическим оскорблением</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{Hab:v}, {SoS:n}, {-lI':n}, {Quch:n}</column>
@@ -100,7 +101,7 @@
       <column name="search_tags_de">mu'qaD veS, Wettfluchen</column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">mu'qaD veS, проклятие</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {PK:src}</column>
     </table>
@@ -112,7 +113,7 @@
       <column name="definition_de">Daten-Empfangsgerät</column>
       <column name="definition_fa">دستگاه انتقال داده [AUTOTRANSLATED]</column>
       <column name="definition_sv">datasändare och mottagare</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">устройство для передачи данных</column>
       <column name="definition_zh_HK">數據收發設備 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -147,7 +148,7 @@
       <column name="definition_de">Computer, Datenübertragung vorbereiten!</column>
       <column name="definition_fa">آماده برای انتقال. [AUTOTRANSLATED]</column>
       <column name="definition_sv">Förbered dig för att överföra. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Приготовьтесь к передаче</column>
       <column name="definition_zh_HK">準備傳輸。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -156,7 +157,7 @@
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Команда отдается устройству для передачи данных ({HablI':n}).</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">The subtitle says "Ready to transmit", which was the original English line spoken by the actress playing Valkris. However, the Klingon is phrased as a command, so "Prepare to transmit" is a better translation.</column>
       <column name="components">{HablI':n}, {Su':excl}, {lab:v}, {-beH:v}</column>
@@ -182,7 +183,7 @@
       <column name="definition_de">entwickelt</column>
       <column name="definition_fa">توسعه یابد (به عنوان مثال، تمدن) [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara utvecklad, vara högtstående (om t.ex. civilisation)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть развитым(ой)</column>
       <column name="definition_zh_HK">發展（例如，文明） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{lutlh:v}</column>
@@ -205,7 +206,7 @@
       <column name="search_tags_de">Zivilisation</column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">цивилизация</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -217,7 +218,7 @@
       <column name="definition_de">studieren, lernen</column>
       <column name="definition_fa">مطالعه [AUTOTRANSLATED]</column>
       <column name="definition_sv">studera</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">изучение, исследование</column>
       <column name="definition_zh_HK">研究 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -252,7 +253,7 @@
       <column name="definition_de">lachen</column>
       <column name="definition_fa">خندیدن</column>
       <column name="definition_sv">skratta</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">смеяться</column>
       <column name="definition_zh_HK">笑</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -271,7 +272,9 @@
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {Hagh qoHpu' neH HeghtaHvIS SuvwI'pu'.:sen}
+▶ {cheqotlhchugh maHaghbe''a'? cheDuQchugh mareghbe''a'? cheQIHchugh manoDbe''a'?:sen}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -289,7 +292,7 @@
       <column name="definition_de">Nur Narren lachen während Krieger sterben.</column>
       <column name="definition_fa">فقط احمق ها می خندند در حالی که رزمندگان می میرند [AUTOTRANSLATED]</column>
       <column name="definition_sv">Endast dårar skrattar medan krigare dör. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Только дураки смеются, пока умирают воины</column>
       <column name="definition_zh_HK">戰士死亡時，只有傻瓜笑。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -324,7 +327,7 @@
       <column name="definition_de">durchtränken, durchnässen</column>
       <column name="definition_fa">خیس کن، خیس کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">blöta upp, dränka in</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">вымочить, вымачивать, намочить, впитывать, замачивать, смачивать, мокнуть</column>
       <column name="definition_zh_HK">浸泡，浸泡 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -336,7 +339,9 @@
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Объектом является вещь, которую мочат или замачивают.
+
+{HaH'egh:v@@HaH:v:1, -'egh:v} использовано, чтобы упомянуть о купании или о том, когда много пьют.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
