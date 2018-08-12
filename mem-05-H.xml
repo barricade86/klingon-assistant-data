@@ -3688,7 +3688,7 @@ Siehe wie Gowron dies sagt: {YouTube video:url:http://youtu.be/Wq5mvIWRSKc}</col
       <column name="definition_de">liefern, Waren transportieren</column>
       <column name="definition_fa">تحویل کالا [AUTOTRANSLATED]</column>
       <column name="definition_sv">leverera, transportera gods</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">доставлять, перевозить, осуществлять транспортировку товаров</column>
       <column name="definition_zh_HK">交貨，運輸貨物 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3706,7 +3706,9 @@ Siehe wie Gowron dies sagt: {YouTube video:url:http://youtu.be/Wq5mvIWRSKc}</col
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {yIHmey DaHIj'a'?  ghobe', yIHmey vIHIjbe'.} "Вы перевозите трибблов?Нет.Я не перевожу трибблов."[2]
+      </column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -3724,7 +3726,7 @@ Siehe wie Gowron dies sagt: {YouTube video:url:http://youtu.be/Wq5mvIWRSKc}</col
       <column name="definition_de">Briefmarke</column>
       <column name="definition_fa">تمبر، تمبر پستی [AUTOTRANSLATED]</column>
       <column name="definition_sv">frimärke</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">штамп, почтовая марка</column>
       <column name="definition_zh_HK">郵票</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3759,7 +3761,7 @@ Siehe wie Gowron dies sagt: {YouTube video:url:http://youtu.be/Wq5mvIWRSKc}</col
       <column name="definition_de">ja, stimmt</column>
       <column name="definition_fa">بله، درست (پاسخ به بله / بدون سوال) [AUTOTRANSLATED]</column>
       <column name="definition_sv">ja (svar på ja/nej fråga)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">да, верно (ответ на вопрос да\нет)</column>
       <column name="definition_zh_HK">是的，是的（回答是/否問題） [AUTOTRANSLATED]</column>
       <column name="synonyms">{HISlaH:excl}</column>
       <column name="antonyms">{ghobe':excl}</column>
@@ -3770,7 +3772,9 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Это положительный ответ на вопрос да\нет (см. {-'a':v}).
+
+Смотрите, как это говорит Гаурон: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">Looks like a combination of the Japanese and German affirmative answers ("hai" and "ja").</column>
       <column name="components"></column>
@@ -3796,7 +3800,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Beam mich hoch!</column>
       <column name="definition_fa">پرتو من بر روی زمین! [AUTOTRANSLATED]</column>
       <column name="definition_sv">Beam mig ombord! [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Поднимайте меня на борт!</column>
       <column name="definition_zh_HK">把我綁在船上！ [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3831,7 +3835,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Uniform</column>
       <column name="definition_fa">لباس فرم [AUTOTRANSLATED]</column>
       <column name="definition_sv">uniform</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Униформа</column>
       <column name="definition_zh_HK">制服 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3840,7 +3844,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="notes_de">Bezeichnet die Kleidung, die im Kampf getragen wird.</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Относится к боевой униформе</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">In English slang, "hip" means fashionable in the context of clothing.</column>
       <column name="components"></column>
@@ -3866,7 +3870,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Ale, Bier, Wein, Spirituosen</column>
       <column name="definition_fa">مشروب، ال، آبجو، شراب [AUTOTRANSLATED]</column>
       <column name="definition_sv">sprit, öl, vin, alkohol</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Ликер, эль, пиво, вино</column>
       <column name="definition_zh_HK">酒，啤酒，啤酒，葡萄酒 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3886,13 +3890,16 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {romuluS HIq:n}
+▶ {cha'vatlh ben HIq:n}
+▶ {HIq qIj:n}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags">alcohol</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">алкоголь</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {TKD:src}, [2] {KGT:src}</column>
     </table>
@@ -3904,7 +3911,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Um Bier zu finden, musst du in die Kneipe gehen.</column>
       <column name="definition_fa">برای پیدا کردن آل، به یک نوار بروید. [AUTOTRANSLATED]</column>
       <column name="definition_sv">För att hitta ale, gå in i en bar. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Чтобы найти эль, идите в бар!</column>
       <column name="definition_zh_HK">要找到啤酒，請進入酒吧。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4114,7 +4121,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">ja, stimmt</column>
       <column name="definition_fa">بله، درست (پاسخ به بله / بدون سوال) [AUTOTRANSLATED]</column>
       <column name="definition_sv">ja (svar på ja/nej fråga)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Да, верно (ответ на вопрос да\нет)</column>
       <column name="definition_zh_HK">是的，是的（回答是/否問題） [AUTOTRANSLATED]</column>
       <column name="synonyms">{HIja':excl}</column>
       <column name="antonyms">{ghobe':excl}</column>
@@ -4123,7 +4130,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Является разновидностью {HIja':excl}.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -4149,7 +4156,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">angreifen</column>
       <column name="definition_fa">حمله [AUTOTRANSLATED]</column>
       <column name="definition_sv">attackera</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">атаковать, нападать</column>
       <column name="definition_zh_HK">攻擊 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4168,7 +4175,9 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {HIvbe' qoHpu' neH.:sen}
+▶ {pujwI' HIvlu'chugh quvbe'lu'.:sen}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -4186,7 +4195,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Nur Narren greifen nicht an.</column>
       <column name="definition_fa">فقط احمق ها حمله نمی کنند [AUTOTRANSLATED]</column>
       <column name="definition_sv">Endast dårar attackerar inte. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Только дураки не нападают!</column>
       <column name="definition_zh_HK">只有傻瓜不攻擊。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4221,7 +4230,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Angriffsreichweite</column>
       <column name="definition_fa">محدوده حمله [AUTOTRANSLATED]</column>
       <column name="definition_sv">attackens räckvidd [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Дистанция атаки</column>
       <column name="definition_zh_HK">攻擊範圍</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4239,7 +4248,8 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {chorghSaD qelI'qam HIvchuq'e' vInoH.:sen}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -4257,7 +4267,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Angriffskreuzer</column>
       <column name="definition_fa">جنگنده حمله (کشتی) [AUTOTRANSLATED]</column>
       <column name="definition_sv">attackskepp</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">истребитель</column>
       <column name="definition_zh_HK">攻擊戰鬥機（船隻） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4292,7 +4302,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Angriffskurs</column>
       <column name="definition_fa">دوره حمله [AUTOTRANSLATED]</column>
       <column name="definition_sv">attackkurs</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">курс атаки</column>
       <column name="definition_zh_HK">攻擊課程 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4327,7 +4337,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Glas, Trinkgefäß</column>
       <column name="definition_fa">شیشه (شیشه ای) [AUTOTRANSLATED]</column>
       <column name="definition_sv">glas (dryckeskärl), mugg</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">стекло тумблера</column>
       <column name="definition_zh_HK">玻璃杯（不倒翁） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4362,7 +4372,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Trinklied</column>
       <column name="definition_fa">نوشیدن آهنگ [AUTOTRANSLATED]</column>
       <column name="definition_sv">dryckesvisa</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">застольная песня</column>
       <column name="definition_zh_HK">喝酒歌 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4397,7 +4407,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Ein Schiff tarnt sich, um anzugreifen.</column>
       <column name="definition_fa">یک کشتی به منظور حمله. [AUTOTRANSLATED]</column>
       <column name="definition_sv">Ett fartyg kappar för att attackera. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Корабль включает маскировку, чтобы атаковать</column>
       <column name="definition_zh_HK">一艘船為了攻擊而斗篷。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4467,7 +4477,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Diktator</column>
       <column name="definition_fa">دیکتاتور [AUTOTRANSLATED]</column>
       <column name="definition_sv">diktator</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Диктатор</column>
       <column name="definition_zh_HK">獨裁者 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4502,7 +4512,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Tyrann</column>
       <column name="definition_fa">ستمگر [AUTOTRANSLATED]</column>
       <column name="definition_sv">tyrann [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Тиран</column>
       <column name="definition_zh_HK">暴君 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4537,7 +4547,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Diktatur</column>
       <column name="definition_fa">دیکتاتوری [AUTOTRANSLATED]</column>
       <column name="definition_sv">diktatorstyre</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Диктаторство, диктат</column>
       <column name="definition_zh_HK">專政 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4572,7 +4582,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">gähnen</column>
       <column name="definition_fa">خمیازه [AUTOTRANSLATED]</column>
       <column name="definition_sv">gäspa</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">зевать, зиять</column>
       <column name="definition_zh_HK">打哈欠 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4607,7 +4617,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">jede/r/s, alle/s</column>
       <column name="definition_fa">همه، همه، همه چیز، هر کدام [AUTOTRANSLATED]</column>
       <column name="definition_sv">alla, allihop, allt, allting, varje, varenda</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">все, каждый, всякий</column>
       <column name="definition_zh_HK">每個人，所有人，每件事，每件事 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{pagh:n:1}</column>
@@ -4616,7 +4626,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Если существительное, что следует за данным словом, во множественном числе, то это значит "все X", вместе взятые. Если подлежащее не совсем во множественном числе(т.е имеются сомнения), тогда это означает "каждый X", в отдельности.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -4628,7 +4638,11 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {Hoch tlhInganpu':sen:nolink} "Все Клингоны"[2]
+▶ {Hoch paqmey:sen:nolink} "Все книги"[2]
+▶ {Hoch 'ebmey tIjon.:sen} "Используйте все возможности" (но не "каждую возможность")
+▶ {wo' toy'taHvIS Hegh 'e' tul Hoch tlhIngan.:sen} "Умереть на службе империи, мечта каждого Клингона" (т.е., каждого Клингона в отдельности)</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
