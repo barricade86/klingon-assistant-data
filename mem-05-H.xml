@@ -402,7 +402,7 @@
       <column name="definition_de">fürchten</column>
       <column name="definition_fa">وحشت [AUTOTRANSLATED]</column>
       <column name="definition_sv">frukta</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">опасаться, страшиться, бояться</column>
       <column name="definition_zh_HK">恐懼 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -437,7 +437,7 @@
       <column name="definition_de">Bein (als Nahrung)</column>
       <column name="definition_fa">پای (غذا) [AUTOTRANSLATED]</column>
       <column name="definition_sv">ben, lår (serverat som mat)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">нога (пища)</column>
       <column name="definition_zh_HK">腿（作為食物） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -446,7 +446,7 @@
       <column name="notes_de">Dieses Wort wird durch die Oberklasse verwendet, wenn {gham:n} als Nahrung serviert wird.</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Слово, используется носителями языка высшего класса для {gham:n} служащего едой</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -472,7 +472,7 @@
       <column name="definition_de">Quelle</column>
       <column name="definition_fa">منبع [AUTOTRANSLATED]</column>
       <column name="definition_sv">källa</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">источник, родник, исходник, первопричина, исток</column>
       <column name="definition_zh_HK">資源 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -507,7 +507,7 @@
       <column name="definition_de">Hamlet</column>
       <column name="definition_fa">هملت</column>
       <column name="definition_sv">Liten by [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Гамлет</column>
       <column name="definition_zh_HK">哈姆雷特</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -516,7 +516,7 @@
       <column name="notes_de">Dies ist der Name eines bekannten Stücks von {wIlyam SeQpIr:n:name}, als auch dessen Hauptfigur.</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Название известной пьесы, автором которой является {wIlyam SeQpIr:n:name}, а также имя одноименного протагониста.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -647,7 +647,7 @@
       <column name="definition_de">(Motor-/Warp-)Gondel</column>
       <column name="definition_fa">nacelle [AUTOTRANSLATED]</column>
       <column name="definition_sv">warpgondol, nacell</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">гондола корабля, кабина самолета</column>
       <column name="definition_zh_HK">機艙 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -682,7 +682,7 @@
       <column name="definition_de">Material</column>
       <column name="definition_fa">موضوع [AUTOTRANSLATED]</column>
       <column name="definition_sv">materia</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">дело, материя, вопрос, предмет, материал</column>
       <column name="definition_zh_HK">物 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -717,7 +717,7 @@
       <column name="definition_de">Operation, Chirurgie</column>
       <column name="definition_fa">عمل جراحي [AUTOTRANSLATED]</column>
       <column name="definition_sv">kirurgi</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">хирургия, операционная</column>
       <column name="definition_zh_HK">手術 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -752,7 +752,7 @@
       <column name="definition_de">(jdn.) operieren</column>
       <column name="definition_fa">انجام عمل جراحی (روی) [AUTOTRANSLATED]</column>
       <column name="definition_sv">utföra kirurgi (på), operera</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">оперировать кого-то </column>
       <column name="definition_zh_HK">進行手術（上） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -761,7 +761,7 @@
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Слово имеет негативный оттенок в Клингонской культуре.[1]</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">"Hack".</column>
       <column name="components"></column>
@@ -822,7 +822,7 @@
       <column name="definition_de">Skalpell</column>
       <column name="definition_fa">اسکلپال [AUTOTRANSLATED]</column>
       <column name="definition_sv">skalpell</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Скальпель</column>
       <column name="definition_zh_HK">解剖刀 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -857,7 +857,7 @@
       <column name="definition_de">Chirurg</column>
       <column name="definition_fa">جراح [AUTOTRANSLATED]</column>
       <column name="definition_sv">kirurg</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Хирург</column>
       <column name="definition_zh_HK">外科醫生 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -866,7 +866,7 @@
       <column name="notes_de">Dies ist ein Arzt (siehe {Qel:n:1h}) der operiert (siehe {Haq:v:1}).[2]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Это доктор (см. {Qel:n:1h}), который проводит операцию (см. {Haq:v:1}).[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{Haq:v:1}, {-wI':v}</column>
@@ -892,7 +892,7 @@
       <column name="definition_de">Saccharin</column>
       <column name="definition_fa">ساكارین [AUTOTRANSLATED]</column>
       <column name="definition_sv">sackarin</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Сахарин</column>
       <column name="definition_zh_HK">糖精 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -927,7 +927,7 @@
       <column name="definition_de">glauben</column>
       <column name="definition_fa">ایمان داشتن [AUTOTRANSLATED]</column>
       <column name="definition_sv">tro</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">верить, считать(быть в чем-то уверенным), быть убежденным в чем-то</column>
       <column name="definition_zh_HK">相信 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{Hon:v}</column>
@@ -963,7 +963,7 @@
       <column name="definition_de">kämpfen (schwere Konfrontation)</column>
       <column name="definition_fa">مبارزه، نبرد (مقابله عمده) [AUTOTRANSLATED]</column>
       <column name="definition_sv">slåss, strida (stor konfrontation)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Сражаться, бороться, биться (существенная конфронтация)</column>
       <column name="definition_zh_HK">戰鬥，戰鬥（主要對抗） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -972,7 +972,7 @@
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">В порядке убывания свирепости, используются следующие глаголы, для описания военных противостояний: {Qor:v}, {tlhaS:v}, {vay:v}, {lul:v}, {Hargh:v:nolink}.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">Armageddon (Har Megiddo).</column>
       <column name="components"></column>
@@ -1033,7 +1033,7 @@
       <column name="definition_de">visuelle Anzeige</column>
       <column name="definition_fa">نمایش بصری [AUTOTRANSLATED]</column>
       <column name="definition_sv">bildskärm (på monitor)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Дисплей</column>
       <column name="definition_zh_HK">畫面顯示 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1068,7 +1068,7 @@
       <column name="definition_de">Fernsehen</column>
       <column name="definition_fa">تلویزیون [AUTOTRANSLATED]</column>
       <column name="definition_sv">teve</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Телевидение</column>
       <column name="definition_zh_HK">電視 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1173,7 +1173,7 @@
       <column name="definition_de">Video, visuelle Aufnahme</column>
       <column name="definition_fa">ویدئو، ضبط صفحه نمایش بصری [AUTOTRANSLATED]</column>
       <column name="definition_sv">video, visuell visningsrekord [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">видео, видеозапись</column>
       <column name="definition_zh_HK">視頻，視覺顯示記錄 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1208,7 +1208,7 @@
       <column name="definition_de">illegal</column>
       <column name="definition_fa">غیرقانونی است [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara olaglig, vara illegal</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть незаконным</column>
       <column name="definition_zh_HK">是非法的 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{mub:v}</column>
@@ -1243,7 +1243,7 @@
       <column name="definition_de">Temperatur</column>
       <column name="definition_fa">درجه حرارت [AUTOTRANSLATED]</column>
       <column name="definition_sv">temperatur</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">температура</column>
       <column name="definition_zh_HK">溫度 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1278,7 +1278,7 @@
       <column name="definition_de">Land, Landschaft</column>
       <column name="definition_fa">کشور، حومه شهر [AUTOTRANSLATED]</column>
       <column name="definition_sv">landsort, landsbygd</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Страна, местность</column>
       <column name="definition_zh_HK">國家，農村 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{veng:n}</column>
@@ -1301,7 +1301,7 @@
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">сельская местность</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -1313,7 +1313,7 @@
       <column name="definition_de">flüchten, hinausgehen, wegrennen</column>
       <column name="definition_fa">فرار کن، بیرون برو [AUTOTRANSLATED]</column>
       <column name="definition_sv">fly från, ta sig ur, smita ifrån</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">бежать, убираться(уходить откуда-то)</column>
       <column name="definition_zh_HK">逃離，出去 [AUTOTRANSLATED]</column>
       <column name="synonyms">{HeD:v}</column>
       <column name="antonyms">{yong:v}</column>
@@ -1331,7 +1331,8 @@
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {may'meyDajvo' Haw'be' tlhIngan.:sen}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags">run away from</column>
       <column name="search_tags_de"></column>
@@ -1349,7 +1350,7 @@
       <column name="definition_de">Bereich hinter</column>
       <column name="definition_fa">منطقه فراتر از آن [AUTOTRANSLATED]</column>
       <column name="definition_sv">område utanför [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">территория или район за пределами чего-то</column>
       <column name="definition_zh_HK">區域以外 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1384,7 +1385,7 @@
       <column name="definition_de">duellieren</column>
       <column name="definition_fa">دوئل [AUTOTRANSLATED]</column>
       <column name="definition_sv">duellera</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Дуэль, поединок</column>
       <column name="definition_zh_HK">決鬥 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1393,7 +1394,7 @@
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Чтобы вызвать кого-то на поединок, скажите {qablIj HI'ang:sen:nolink}. Чтобы принять такой вызов, скажите {vISo'be':sen:nolink}.[2, стр.68]</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1454,7 +1455,7 @@
       <column name="definition_de">Los! Lasst uns gehen.</column>
       <column name="definition_fa">بیا برویم، بیا [AUTOTRANSLATED]</column>
       <column name="definition_sv">kom, vi går</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Пойдем, пошли, вперед</column>
       <column name="definition_zh_HK">我們走了，來吧 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1500,7 +1501,9 @@ To answer in the negative, say {Qo':excl} "no, I refuse".</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Чтобы ответить утвердительно, скажите {luq:excl} "Окей".
+
+Чтобы ответить отрицательно, скажите {Qo':excl} "нет, я отказываюсь".</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1511,7 +1514,10 @@ To answer in the negative, say {Qo':excl} "no, I refuse".</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {Ha', pa'lIj wIjaH!:sen:nolink} "Давайте, пойдём в вашу каюту!"
+▶ {Ha', tach wIjaH!:sen:nolink} "Давайте, пойдём в бар!"
+▶ {Ha', vaS'a' wIjaH!:sen:nolink} "Давайте, пойдём в Зал Великого совета."</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -1529,7 +1535,7 @@ To answer in the negative, say {Qo':excl} "no, I refuse".</column>
       <column name="definition_de">Fleisch, Tier</column>
       <column name="definition_fa">گوشت، حیوانات [AUTOTRANSLATED]</column>
       <column name="definition_sv">djur, kött</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">мясо, животное</column>
       <column name="definition_zh_HK">肉，動物 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1538,7 +1544,7 @@ To answer in the negative, say {Qo':excl} "no, I refuse".</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Для описания различных способов приготовления мяса, смотрите {wamwI' Ha'DIbaH:n}, {voDleH Ha'DIbaH:n}, и {qeyvaq Ha'DIbaH:n}. Также может использоваться, как легкое оскорбление</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">A lip movement match for "animal".</column>
       <column name="components"></column>
@@ -1564,7 +1570,7 @@ To answer in the negative, say {Qo':excl} "no, I refuse".</column>
       <column name="definition_de">Hundesohn, "Schwein", minderwertige Person</column>
       <column name="definition_fa">سگ، کنجکاو، فرد نابالغ [AUTOTRANSLATED]</column>
       <column name="definition_sv">fähund, usling, tölp, underlägsen person</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">собака, шавка, жалкий человек</column>
       <column name="definition_zh_HK">狗，cur，劣等人 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1599,7 +1605,7 @@ To answer in the negative, say {Qo':excl} "no, I refuse".</column>
       <column name="definition_de">Töte kein Tier, wenn du nicht vorhast, es zu essen.</column>
       <column name="definition_fa">حیوان را کشتن ندهید مگر اینکه قصد داشته باشید آن را بخورید. [AUTOTRANSLATED]</column>
       <column name="definition_sv">Död inte ett djur om du inte tänker äta det. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Не убивай животное, если не намерен его съесть!</column>
       <column name="definition_zh_HK">除非你打算吃它，否則不要殺死動物。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1634,7 +1640,7 @@ To answer in the negative, say {Qo':excl} "no, I refuse".</column>
       <column name="definition_de">Hamburger (Speise)</column>
       <column name="definition_fa">برگر، همبرگر [AUTOTRANSLATED]</column>
       <column name="definition_sv">hamburgare</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Бургер, гамбургер</column>
       <column name="definition_zh_HK">漢堡，漢堡 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1643,7 +1649,7 @@ To answer in the negative, say {Qo':excl} "no, I refuse".</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Это то, что Клингоны называют земной пищей</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{Ha'DIbaH:n:1}, {ghIH:v:1}, {tIr ngogh:n}, {je:conj}</column>
@@ -1657,7 +1663,7 @@ To answer in the negative, say {Qo':excl} "no, I refuse".</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">сендвич, бутерброд</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {TNK:src}</column>
     </table>
@@ -1742,7 +1748,7 @@ To use such a device, one may {qIp:v}, {'uy:v}, or {ngaH:v} it, depending on the
       <column name="definition_de">Schärpe</column>
       <column name="definition_fa">چاقو، چاقو [AUTOTRANSLATED]</column>
       <column name="definition_sv">axelgehäng, gehäng</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">перевязь, орденская лента</column>
       <column name="definition_zh_HK">baldric，腰帶 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1751,7 +1757,7 @@ To use such a device, one may {qIp:v}, {'uy:v}, or {ngaH:v} it, depending on the
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">В древние времена использовалась для ношения меча. Сейчас это символ {tuq:n}.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1760,7 +1766,8 @@ To use such a device, one may {qIp:v}, {'uy:v}, or {ngaH:v} it, depending on the
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {qorDu'Daj tuq 'oS Ha'quj'e' tuQbogh wo'rIv. tuQtaHvIS Hem. ghaHvaD quHDaj qawmoH.:sen:nolink} "Перевязь, которую носит Ворф, является символом его семьи. Он носит её гордо, как  напоминание о его наследии."[2]</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -1778,7 +1785,7 @@ To use such a device, one may {qIp:v}, {'uy:v}, or {ngaH:v} it, depending on the
       <column name="definition_de">jemandes Stolz verletzen</column>
       <column name="definition_fa">افتادن غرور یکی [AUTOTRANSLATED]</column>
       <column name="definition_sv">att sår sin stolthet [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Задеть(ущемить) чью-то гордость</column>
       <column name="definition_zh_HK">傷到一個人的驕傲 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1787,7 +1794,7 @@ To use such a device, one may {qIp:v}, {'uy:v}, or {ngaH:v} it, depending on the
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Выражение {Ha'qujlIj nge':sen:nolink} "сними свою перевязь" значит "ущеми свою гордость".</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1813,7 +1820,7 @@ To use such a device, one may {qIp:v}, {'uy:v}, or {ngaH:v} it, depending on the
       <column name="definition_de">Kurs, Route</column>
       <column name="definition_fa">البته مسیر [AUTOTRANSLATED]</column>
       <column name="definition_sv">bana, kurs, rutt, riktning</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">курс, маршрут</column>
       <column name="definition_zh_HK">當然，路線 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1824,7 +1831,9 @@ A physical path would be a {taw:n}.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Слово может относиться только к физическому пути, а не к духовному или метафорическому. "Клингонский путь", к примеру будет {tlhIngan tIgh:n:nolink}.
+
+Другое слово для обозначения физического пути {taw:n}.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1841,7 +1850,7 @@ A physical path would be a {taw:n}.</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">путь</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -1853,7 +1862,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">Achte auf ihren Kurs.</column>
       <column name="definition_fa">مسیر خود را دنبال کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">Spåra hennes kurs. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Отследить её курс</column>
       <column name="definition_zh_HK">跟踪她的課程。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1923,7 +1932,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">Neuer Kurs in die Neutrale Zone setzen.</column>
       <column name="definition_fa">دوره جدید، منطقه بی طرف فدراسیون. [AUTOTRANSLATED]</column>
       <column name="definition_sv">Ny kurs, federationens neutrala zon. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Новый курс, нейтральная зона с Федерацией</column>
       <column name="definition_zh_HK">新課程，聯邦中立區。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1958,7 +1967,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">Plan den Kurs, null-null-null, mark zwei.</column>
       <column name="definition_fa">قطعه صفر صفر صفر، علامت دو. [AUTOTRANSLATED]</column>
       <column name="definition_sv">Plot kurs noll-noll-noll, markera två. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Проложить курс 0-0-0, отметка 2</column>
       <column name="definition_zh_HK">繪製路線零零零，標記二。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1993,7 +2002,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">beabsichtigen, vorhaben</column>
       <column name="definition_fa">قصد دارم، به معنی [AUTOTRANSLATED]</column>
       <column name="definition_sv">avse, mena att</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">намереваться, хотеть(иметь намерение)</column>
       <column name="definition_zh_HK">打算，意思是 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2012,7 +2021,9 @@ A physical path would be a {taw:n}.</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {Ha'DIbaH DaSop 'e' DaHechbe'chugh yIHoHQo'.:sen}
+▶ {Hem tlhIngan Segh 'ej maHemtaH 'e' wIHech.:sen}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -2030,7 +2041,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">zurückziehen</column>
       <column name="definition_fa">عقب نشینی [AUTOTRANSLATED]</column>
       <column name="definition_sv">retirera, gå till reträtt</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">отступать</column>
       <column name="definition_zh_HK">撤退 [AUTOTRANSLATED]</column>
       <column name="synonyms">{Haw':v}</column>
       <column name="antonyms"></column>
@@ -2065,7 +2076,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">perfekt zurückziehen</column>
       <column name="definition_fa">عقب نشینی کنید، یک خروج کامل بگیرید [AUTOTRANSLATED]</column>
       <column name="definition_sv">reträtt perfekt, gör en fullständig återkallelse [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">полностью отступить, осуществить полный вывод</column>
       <column name="definition_zh_HK">完美撤退，完全退出 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2088,7 +2099,7 @@ A physical path would be a {taw:n}.</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">отступать</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {KGT p.49:src}</column>
     </table>
@@ -2100,7 +2111,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">Parallelkurs</column>
       <column name="definition_fa">دوره موازی [AUTOTRANSLATED]</column>
       <column name="definition_sv">parallell kurs</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">параллельный курс</column>
       <column name="definition_zh_HK">平行課程 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2135,7 +2146,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">sterben</column>
       <column name="definition_fa">مرگ [AUTOTRANSLATED]</column>
       <column name="definition_sv">dö</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Умирать</column>
       <column name="definition_zh_HK">死</column>
       <column name="synonyms"></column>
       <column name="antonyms">{yIn:v}</column>
@@ -2144,7 +2155,7 @@ A physical path would be a {taw:n}.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Фактически {yIn:v} может быть использована транзитивно. Как и {Hegh:v:nolink}.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2153,7 +2164,8 @@ A physical path would be a {taw:n}.</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {bogh tlhInganpu', SuvwI'pu' moj, Hegh.:sen}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -2171,7 +2183,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">Tod</column>
       <column name="definition_fa">مرگ [AUTOTRANSLATED]</column>
       <column name="definition_sv">död</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Смерть</column>
       <column name="definition_zh_HK">死亡</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2206,7 +2218,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">Todesschrei</column>
       <column name="definition_fa">ضرب و شتم مرگ [AUTOTRANSLATED]</column>
       <column name="definition_sv">döden skriker [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Смертельный вой</column>
       <column name="definition_zh_HK">死嚎 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2227,7 +2239,11 @@ A physical path would be a {taw:n}.</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {Hegh bey:sen:nolink}
+   {HeghDI' tlhIngan SuvwI' pagh tlhIngan SuvwI' HoHlu'DI' Heghtay lulop latlh tlhInganpu'. Heghtay luloptaHvIS chaH chaq bey SeQ lujach.Heghpu'bogh tlhIngan mInDu' lupoSmoHlu'. beyHom bey bey'a' jachtaH latlh tlhInganpu'. yay 'oS bey. 'IQ pagh. Heghpu'bogh latlhpu' ghuHmoH bey.ghey. ghoS tlhIngan SuvwI' maq.:sen:nolink}
+  "Смертельный вой.
+   Когда клингонский воин умирает или его убивают, другие клингоны могут исполнять церемониальный вой или крик, как часть клингонского смертельного ритуала. Глаза павшего клингона открыты, и остальные рычат в нарастающем объеме. По природе этот вой скорее победоносный, нежели печальный. Также служит предупреждением другим умершим, что идет клингонский воин"[2]</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -2246,7 +2262,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">Barke der Toten</column>
       <column name="definition_fa">بارج مرده [AUTOTRANSLATED]</column>
       <column name="definition_sv">De döda bäcken [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Баржа мёртвых</column>
       <column name="definition_zh_HK">死者的駁船 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2264,7 +2280,8 @@ A physical path would be a {taw:n}.</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {Hegh Duj DatIj 'ej ghe'torDaq Duqeng.:sen:nolink} "Баржа мертвых переправит тебя в Гретор!"</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -2282,7 +2299,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">Das einzige, was ein Narr erreicht, ist der Tod.</column>
       <column name="definition_fa">تنها دستاورد احمق مرگ است. [AUTOTRANSLATED]</column>
       <column name="definition_sv">En dum är bara prestation är döden. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Единственное достижение дурака это смерть</column>
       <column name="definition_zh_HK">傻瓜唯一的成就就是死亡。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2317,7 +2334,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">ritueller Selbstmord</column>
       <column name="definition_fa">خودکشی مراسم [AUTOTRANSLATED]</column>
       <column name="definition_sv">rituellt självmord</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">ритуальное самоубийство</column>
       <column name="definition_zh_HK">儀式上的自殺 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2387,7 +2404,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">Wenn ein Krieger stirbt, entflieht sein Geist.</column>
       <column name="definition_fa">هنگامی که یک جنگجو می میرد، روح او فرار می کند. [AUTOTRANSLATED]</column>
       <column name="definition_sv">När en krigare dör, flyr hans anda. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Когда воин умирает, его дух вырывается</column>
       <column name="definition_zh_HK">當一個戰士死去時，他的靈魂逃脫了。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2396,7 +2413,7 @@ A physical path would be a {taw:n}.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Глагол {nargh:v:2} означает "сбегать", но он также значит "появляться" (см. {nargh:v:1}).</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{Hegh:v}, {-DI':v}, {SuvwI':n}, {nargh:v:2}, {SuvwI':n}, {qa':n}</column>
@@ -2422,7 +2439,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">Der Tod ist eine Erfahrung, die man am besten teilt.</column>
       <column name="definition_fa">مرگ یک تجربه به اشتراک گذاشته شده است. [AUTOTRANSLATED]</column>
       <column name="definition_sv">Döden är en erfarenhet som är bäst delad. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Смерть это опыт, который передается лучше всего</column>
       <column name="definition_zh_HK">死亡是最佳分享經驗。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2457,7 +2474,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">Heute ist ein guter Tag zum Sterben.</column>
       <column name="definition_fa">روز خوبی برای مردن است. [AUTOTRANSLATED]</column>
       <column name="definition_sv">Det är en bra dag att dö. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Это хороший день, чтобы умереть!</column>
       <column name="definition_zh_HK">這是一個美好的一天死。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2492,7 +2509,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">tödlich sein, töten</column>
       <column name="definition_fa">مرگبار (به) [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara dödlig</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть фатальным, быть смертельным, быть роковым</column>
       <column name="definition_zh_HK">是致命的（至） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2527,7 +2544,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">Todesritual</column>
       <column name="definition_fa">آیین مرگ [AUTOTRANSLATED]</column>
       <column name="definition_sv">dödsritual</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Смертельный ритуал</column>
       <column name="definition_zh_HK">死亡儀式 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2562,7 +2579,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">Rand</column>
       <column name="definition_fa">حاشیه، غیرمتمرکز [AUTOTRANSLATED]</column>
       <column name="definition_sv">kant</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">край, грань, кромка</column>
       <column name="definition_zh_HK">邊緣 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2571,7 +2588,7 @@ A physical path would be a {taw:n}.</column>
       <column name="notes_de">In {TNK:src} wird {bIQ'a' HeH:n} für "Strand" verwendet. Im {paq'batlh:src} wird {ngeng HeH:n} für "Seeufer" verwendet.</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">В {TNK:src}, {bIQ'a' HeH:n} используется, как "берег моря". В {paq'batlh:src}, {ngeng HeH:n} используется, как "берег озера".</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2585,7 +2602,7 @@ A physical path would be a {taw:n}.</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">граница</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -2597,7 +2614,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">rauben, berauben</column>
       <column name="definition_fa">غارت [AUTOTRANSLATED]</column>
       <column name="definition_sv">råna</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">грабить, отнимать, разбойничать</column>
       <column name="definition_zh_HK">搶 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2632,7 +2649,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">stolz</column>
       <column name="definition_fa">افتخار کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara stolt</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть гордым, быть величавым</column>
       <column name="definition_zh_HK">值得驕傲 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2641,7 +2658,7 @@ A physical path would be a {taw:n}.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Используется в контексте восхищения. Для описания высокомерия, смотрите {nguq:v}.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">"Ahem!"</column>
       <column name="components"></column>
@@ -2650,7 +2667,8 @@ A physical path would be a {taw:n}.</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {Hem tlhIngan Segh 'ej maHemtaH 'e' wIHech.:sen}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -2668,7 +2686,7 @@ A physical path would be a {taw:n}.</column>
       <column name="definition_de">Klingonen sind eine stolze Rasse, und wir haben vor weiterhin stolz zu sein.</column>
       <column name="definition_fa">کلینگان ها یک مسابقه افتخار هستند و ما قصد داریم تا افتخار کنیم. [AUTOTRANSLATED]</column>
       <column name="definition_sv">Klingons är en stolt ras, och vi tänker fortsätta att vara stolta. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Клингоны гордая раса и мы намерены продолжать быть гордыми</column>
       <column name="definition_zh_HK">克林崗人是一個自豪的比賽，我們打算繼續自豪。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2712,7 +2730,7 @@ A physical path would be a {taw:n}.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Это имя персонажа из пьесы {wIlyam SeQpIr:n:name}, а также имя персонажа.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -2810,7 +2828,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">einwilligen</column>
       <column name="definition_fa">مطابق [AUTOTRANSLATED]</column>
       <column name="definition_sv">ge efter, foga sig, lyda</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">исполнять, подчиняться, соглашаться что-либо исполнить</column>
       <column name="definition_zh_HK">執行 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'om:v}</column>
@@ -2845,7 +2863,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">Medizin</column>
       <column name="definition_fa">دارو</column>
       <column name="definition_sv">medicin</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">лекарство</column>
       <column name="definition_zh_HK">醫</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2952,7 +2970,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">Hypospray</column>
       <column name="definition_fa">هیپو، هیپو پنوماتیک [AUTOTRANSLATED]</column>
       <column name="definition_sv">spruta, pneumatisk spruta</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">шприц, гипошприц</column>
       <column name="definition_zh_HK">低氣動，低氣壓 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2961,7 +2979,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="notes_de">Man kann dies auch als {HerghwI':n:nolink} abkürzen.</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Может быть сокращено до {HerghwI':n:nolink}.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{Hergh:n}, {Qay:v}, {-wI':v}</column>
@@ -3022,7 +3040,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">etw. verbrechen</column>
       <column name="definition_fa">ارتکاب جرم [AUTOTRANSLATED]</column>
       <column name="definition_sv">begå ett brott</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">совершить преступление</column>
       <column name="definition_zh_HK">犯罪 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3057,7 +3075,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">Verbrechen</column>
       <column name="definition_fa">جرم [AUTOTRANSLATED]</column>
       <column name="definition_sv">brott</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">преступление</column>
       <column name="definition_zh_HK">犯罪 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3092,7 +3110,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">Verbrecher</column>
       <column name="definition_fa">جنایی [AUTOTRANSLATED]</column>
       <column name="definition_sv">brottsling</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">преступник</column>
       <column name="definition_zh_HK">刑事 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3127,7 +3145,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">erhalten, bekommen, empfangen</column>
       <column name="definition_fa">دريافت كردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">ta emot</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">получать, принимать</column>
       <column name="definition_zh_HK">接收 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3145,7 +3163,8 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {yo'SeH yaHnIvvo' potlh De' wIHevtaH.:sen}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -3163,7 +3182,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">Statue</column>
       <column name="definition_fa">مجسمه [AUTOTRANSLATED]</column>
       <column name="definition_sv">staty</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Статуя</column>
       <column name="definition_zh_HK">雕像 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3172,7 +3191,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="notes_de">Es gibt die Redewendung {tam; Hew rur}.</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Есть идиома {tam; Hew rur}.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">One "hew"s a statue.</column>
       <column name="components"></column>
@@ -3233,7 +3252,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">gegen die eigenen Leute kämpfen</column>
       <column name="definition_fa">نبرد یا مبارزه با گروه خودتان [AUTOTRANSLATED]</column>
       <column name="definition_sv">slåss eller slåss mot sin egen grupp [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">вести бой или сражаться с собственной группой</column>
       <column name="definition_zh_HK">與自己的團體作戰或戰鬥 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3242,7 +3261,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="notes_de">Dies bedeutet seine eigene Leute bekämpfen, anstatt den Feind.</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Глагол обозначает сражение против своей собственной группы, а не с предполагаемым врагом.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">This may have been a back-fit for a mispronunciation of {Hegh:v}.</column>
       <column name="components"></column>
@@ -3257,7 +3276,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">распри, борьба, междоусобица</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {Star Trek Into Darkness:src}</column>
     </table>
@@ -3269,7 +3288,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">Atom</column>
       <column name="definition_fa">اتم [AUTOTRANSLATED]</column>
       <column name="definition_sv">atom [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">атом</column>
       <column name="definition_zh_HK">原子 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3278,7 +3297,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="notes_de">Einzelteile eines Atoms sind {yomIj:n}, {valtIn:n}, und {tem:n}</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Компоненты атома могут включать {yomIj:n}, {valtIn:n}, and {tem:n}.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">The Atomium is a famous building in Heysel, Brussels.</column>
       <column name="components"></column>
@@ -3304,7 +3323,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">riechen, Duft abstrahlen</column>
       <column name="definition_fa">بوییدن، بوییدن [AUTOTRANSLATED]</column>
       <column name="definition_sv">lukta, avge lukt</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">пахнуть, испускать запах</column>
       <column name="definition_zh_HK">聞到，散發出異味 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3327,7 +3346,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">испускать запах</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -3339,7 +3358,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">stinken</column>
       <column name="definition_fa">صبر کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">stinka</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">вонять, смердеть</column>
       <column name="definition_zh_HK">臭 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3348,7 +3367,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Это слово относится к выделения запаха. Она не имеет смысла "дурной запах"</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -3374,7 +3393,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">imp: du/ihr-mich</column>
       <column name="definition_fa">ضروری: شما، من، تو (جمع) -م [AUTOTRANSLATED]</column>
       <column name="definition_sv">imperativ: du/ni-mig</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">повелительное наклонение: ты(действие)-мне, вы (множественное число(действие)-мне</column>
       <column name="definition_zh_HK">（命令）你、你們：我</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3384,7 +3403,8 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">{SoH:n}:{jIH:n:1h} = {HI-:v:pref,nolink} (imp.)
+{tlhIH:n}:{jIH:n:1h} = {HI-:v:pref,nolink} (повелительное наклонение.)</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -3410,7 +3430,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">Handfeuerwaffe</column>
       <column name="definition_fa">تفنگ ساچمه ای [AUTOTRANSLATED]</column>
       <column name="definition_sv">pistol, revolver</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">пистолет, револьвер</column>
       <column name="definition_zh_HK">手槍 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3433,7 +3453,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">ружьё</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -3445,7 +3465,7 @@ See under {nItlh:n} for the verbs associated with each of the fingers.</column>
       <column name="definition_de">Luftschleuse</column>
       <column name="definition_fa">دریچه هوا [AUTOTRANSLATED]</column>
       <column name="definition_sv">luftsluss</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">шлюз</column>
       <column name="definition_zh_HK">氣閘 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3556,7 +3576,7 @@ Buy the full "Warrior Woman" album: {Google Play store:url:https://play.google.c
       <column name="definition_de">Menü, Speisekarte</column>
       <column name="definition_fa">فهرست [AUTOTRANSLATED]</column>
       <column name="definition_sv">meny</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">меню</column>
       <column name="definition_zh_HK">菜單 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3591,7 +3611,7 @@ Buy the full "Warrior Woman" album: {Google Play store:url:https://play.google.c
       <column name="definition_de">dreckig kämpfen</column>
       <column name="definition_fa">مبارزه با کثیف [AUTOTRANSLATED]</column>
       <column name="definition_sv">slåss oärligt</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">драться грязно, драться нечестными способами</column>
       <column name="definition_zh_HK">打得很髒 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3627,7 +3647,7 @@ Buy the full "Warrior Woman" album: {Google Play store:url:https://play.google.c
       <column name="definition_de">Komm her!</column>
       <column name="definition_fa">بیا اینجا!</column>
       <column name="definition_sv">Kom hit! [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Идите сюда"</column>
       <column name="definition_zh_HK">過來！</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3640,7 +3660,9 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/Wq5mvIWRSKc}</column>
 Siehe wie Gowron dies sagt: {YouTube video:url:http://youtu.be/Wq5mvIWRSKc}</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Дословно это означает "Идите ко мне!"
+
+Смотрите, как Гаурон говорит это: {YouTube video:url:http://youtu.be/Wq5mvIWRSKc}</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{HI-:v}, {ghoS:v:1}</column>
