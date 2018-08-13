@@ -4641,7 +4641,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="examples_ru">
 ▶ {Hoch tlhInganpu':sen:nolink} "Все Клингоны"[2]
 ▶ {Hoch paqmey:sen:nolink} "Все книги"[2]
-▶ {Hoch 'ebmey tIjon.:sen} "Используйте все возможности" (но не "каждую возможность")
+▶ {Hoch 'ebmey tIjon.:sen} "Охватите все возможности" (но не "каждую возможность")
 ▶ {wo' toy'taHvIS Hegh 'e' tul Hoch tlhIngan.:sen} "Умереть на службе империи, мечта каждого Клингона" (т.е., каждого Клингона в отдельности)</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
@@ -4660,7 +4660,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">letzter</column>
       <column name="definition_fa">پایان، آخرین مورد در یک لیست [AUTOTRANSLATED]</column>
       <column name="definition_sv">allte, slutgiltiga, sista</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">конец, окончание, завершение, граница, последний пункт списка</column>
       <column name="definition_zh_HK">結束，列表中的最後一項 [AUTOTRANSLATED]</column>
       <column name="synonyms">{natlIS:n}</column>
       <column name="antonyms">{wa'DIch:n}</column>
@@ -4914,7 +4914,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Fange alle Möglichkeiten.</column>
       <column name="definition_fa">تمام فرصت ها را ضبط کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">Fånga alla möjligheter. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Охватите все возможности</column>
       <column name="definition_zh_HK">抓住所有機會。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4949,7 +4949,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/KArQlviVXMk}</column>
       <column name="definition_de">Kapitän, Captain</column>
       <column name="definition_fa">کاپیتان, ناخدا</column>
       <column name="definition_sv">kapten (rang)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Капитан</column>
       <column name="definition_zh_HK">艦長</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -4960,7 +4960,9 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/9CTfqKn383I}</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Это 5-й ранг {yaS:n}.
+
+Смотрите, как это говорит Гаурон: {YouTube video:url:http://youtu.be/9CTfqKn383I}</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">"Head of Department".</column>
       <column name="components"></column>
@@ -4986,7 +4988,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/9CTfqKn383I}</column>
       <column name="definition_de">Woche</column>
       <column name="definition_fa">هفته (کلینگان) [AUTOTRANSLATED]</column>
       <column name="definition_sv">vecka (klingonsk)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Неделя (клингонская)</column>
       <column name="definition_zh_HK">週（克林崗語） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5003,7 +5005,15 @@ If an alien calendar contains more than six days, additional days are numbered b
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Клингонская неделя имеет 6 дней, которыми являются:
+▶ {DaSjaj:n} "Понедельник"
+▶ {povjaj:n} "Вторник"
+▶ {ghItlhjaj:n} "Среда"
+▶ {loghjaj:n} "Четверг"
+▶ {buqjaj:n} "Пятница"
+▶ {lojmItjaj:n} or {ghInjaj:n} "Суббота"
+
+Если инопланетный календарь состоит более чем из 6 дней, дополнительные дни нумеруются начиная с {wa':n:num}. Таким образом, "Воскресенье" будет {jaj wa':n}. Восьмой день недели {jaj cha':n:nolink}, и так далее.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5029,7 +5039,7 @@ If an alien calendar contains more than six days, additional days are numbered b
       <column name="definition_de">töten</column>
       <column name="definition_fa">کشتن [AUTOTRANSLATED]</column>
       <column name="definition_sv">döda</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">убить, убивать, умерщвлять, добивать</column>
       <column name="definition_zh_HK">殺 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5046,7 +5056,7 @@ If an alien calendar contains more than six days, additional days are numbered b
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">{wa' yIHoH. jISaHbe'.:sen}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -5064,7 +5074,7 @@ If an alien calendar contains more than six days, additional days are numbered b
       <column name="definition_de">Töten</column>
       <column name="definition_fa">کشتن [AUTOTRANSLATED]</column>
       <column name="definition_sv">dödande, mord</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Убийство</column>
       <column name="definition_zh_HK">謀殺 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5099,7 +5109,7 @@ If an alien calendar contains more than six days, additional days are numbered b
       <column name="definition_de">Romulanische Jagd- und Mord-Sonde</column>
       <column name="definition_fa">پروانه شکارچی روحانی قاتل [AUTOTRANSLATED]</column>
       <column name="definition_sv">Romulan jägare-mördare sond [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Ромуланский зонд убийца</column>
       <column name="definition_zh_HK">羅慕蘭獵人殺手探測器 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5108,7 +5118,7 @@ If an alien calendar contains more than six days, additional days are numbered b
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Это сокращенный вариант слова {romuluSngan Sambogh 'ej HoHbogh nejwI':n}.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5134,7 +5144,7 @@ If an alien calendar contains more than six days, additional days are numbered b
       <column name="definition_de">Selbstmord begehen</column>
       <column name="definition_fa">خودکشی را تحمل کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">begå självmord</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">совершить самоубийство</column>
       <column name="definition_zh_HK">自殺 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5143,7 +5153,7 @@ If an alien calendar contains more than six days, additional days are numbered b
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Это просто глагол {HoH:v} с суффиксом {-'egh:v}.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{HoH:v}, {-'egh:v}</column>
@@ -5169,7 +5179,7 @@ If an alien calendar contains more than six days, additional days are numbered b
       <column name="definition_de">aufmerksam, vorsichtig</column>
       <column name="definition_fa">احتیاط کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara försiktig</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть осторожным, быть осмотрительным, быть предусмотрительным</column>
       <column name="definition_zh_HK">要小心 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5204,7 +5214,7 @@ If an alien calendar contains more than six days, additional days are numbered b
       <column name="definition_de">Sprache</column>
       <column name="definition_fa">زبان [AUTOTRANSLATED]</column>
       <column name="definition_sv">språk</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Язык(речь)</column>
       <column name="definition_zh_HK">語言 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5215,7 +5225,9 @@ The identifier is usually a country, region, or political unit of some kind. For
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">В Клингонском, названия языков сформированы путем прикрепления {Hol:n:nolink} к соответствующему названию языка. Например, "Клингонский язык" {tlhIngan Hol:n}, а {tlhIngan:n} сам по себе относится не к языку, а к личности.
+
+Идентификатором обычно является страна, регион, или политический блок. Например, Стандарт Федерации (т.e., "Английский") будет {DIvI' Hol:n}. {tlhIngan Hol:n:nolink} сокращенная форма {tlhIngan wo' Hol:n:nolink}.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5311,7 +5323,7 @@ The identifier is usually a country, region, or political unit of some kind. For
       <column name="definition_de">Linguistik</column>
       <column name="definition_fa">زبانشناسی [AUTOTRANSLATED]</column>
       <column name="definition_sv">lingvistik</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">лингвистика</column>
       <column name="definition_zh_HK">語言學 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5320,7 +5332,7 @@ The identifier is usually a country, region, or political unit of some kind. For
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Это также название журнала {tlhIngan Hol yejHaD:n}.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{Hol:n}, {QeD:n}</column>
@@ -5416,7 +5428,7 @@ The identifier is usually a country, region, or political unit of some kind. For
       <column name="definition_de">Knochen</column>
       <column name="definition_fa">استخوان [AUTOTRANSLATED]</column>
       <column name="definition_sv">ben (i skelett)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Кость</column>
       <column name="definition_zh_HK">骨 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5557,7 +5569,7 @@ The identifier is usually a country, region, or political unit of some kind. For
       <column name="definition_de">(be)zweifeln</column>
       <column name="definition_fa">شک [AUTOTRANSLATED]</column>
       <column name="definition_sv">tvivla</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">сомневаться, колебаться, подозревать</column>
       <column name="definition_zh_HK">懷疑 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{Har:v}</column>
@@ -5566,7 +5578,7 @@ The identifier is usually a country, region, or political unit of some kind. For
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Данный глагол можно использовать с {'e':n:pro}.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">"Hon"est doubt.</column>
       <column name="components"></column>
@@ -5575,7 +5587,9 @@ The identifier is usually a country, region, or political unit of some kind. For
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {tlhIngan Hol Dajatlh 'e' vIHon.:sen:nolink} "Я сомневаюсь, что ты говоришь на Клингонском."[2]
+      </column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -5593,7 +5607,7 @@ The identifier is usually a country, region, or political unit of some kind. For
       <column name="definition_de">Impuls-Kraft</column>
       <column name="definition_fa">قدرت ضربه ای [AUTOTRANSLATED]</column>
       <column name="definition_sv">impulsdrift, impulskraft</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">импульсная энергия</column>
       <column name="definition_zh_HK">衝動力 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5733,7 +5747,7 @@ The identifier is usually a country, region, or political unit of some kind. For
       <column name="definition_de">weit, entfernt, auf Distanz</column>
       <column name="definition_fa">دور، دور [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara avlägsen, vara långt bort</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть удаленным, быть далёким</column>
       <column name="definition_zh_HK">遠遠的，遠的 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{Sum:v}</column>
@@ -5752,7 +5766,9 @@ In Klingon, "deep space" is called {logh Hop:n}, literally, "far space".[3]</col
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">Этот глагол используется, так же как и {Sum:v}.[2]
+
+В Клингонском, "глубокий космос" будет {logh Hop:n}, что дословно значит, "дальний космос".[3]</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -5770,7 +5786,7 @@ In Klingon, "deep space" is called {logh Hop:n}, literally, "far space".[3]</col
       <column name="definition_de">Expedition</column>
       <column name="definition_fa">اکسپدیشن [AUTOTRANSLATED]</column>
       <column name="definition_sv">expedition</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">экспедиция</column>
       <column name="definition_zh_HK">遠征 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5805,7 +5821,7 @@ In Klingon, "deep space" is called {logh Hop:n}, literally, "far space".[3]</col
       <column name="definition_de">Trikorder</column>
       <column name="definition_fa">tricorder [AUTOTRANSLATED]</column>
       <column name="definition_sv">trikorder</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">трикодер</column>
       <column name="definition_zh_HK">的tricorder [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5916,7 +5932,7 @@ Do not use this word lightly as it has very bad connotations in Klingon society.
       <column name="definition_de">stark</column>
       <column name="definition_fa">قوی بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara stark</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть сильным</column>
       <column name="definition_zh_HK">要堅強 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{puj:v}</column>
@@ -5927,7 +5943,9 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Есть идиома, {HoS; 'Iw rur}.
+
+Глагол также используется для обычных многоугольников и многогранников.[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5935,7 +5953,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">{vagh reD mey' HoS:n@@vagh reD mey':n, HoS:v} "обычный пятиугольник"[2]</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -5953,7 +5971,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Macht, Energie, Kraft</column>
       <column name="definition_fa">قدرت، انرژی، قدرت [AUTOTRANSLATED]</column>
       <column name="definition_sv">styrka, energi, kraft</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">сила, энергия, </column>
       <column name="definition_zh_HK">力量，能量，力量 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{puj:n:1h}</column>
@@ -5972,7 +5990,9 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {Suvlu'taHvIS yapbe' HoS neH.:sen}
+▶ {tIqDaq HoSna' tu'lu'.:sen}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -5990,7 +6010,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Transtator, Energieumwandler</column>
       <column name="definition_fa">مترجم [AUTOTRANSLATED]</column>
       <column name="definition_sv">transtator</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">транстатор</column>
       <column name="definition_zh_HK">翻譯者 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5999,7 +6019,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Это устройство, что преобразует одну форму энергии в другую.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{HoS:n}, {choH:v} {-wI':v}</column>
@@ -6166,7 +6186,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Energiefeld</column>
       <column name="definition_fa">میدان انرژی [AUTOTRANSLATED]</column>
       <column name="definition_sv">energifält</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">энергетическое поле</column>
       <column name="definition_zh_HK">能量場 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6202,7 +6222,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Energiewesen</column>
       <column name="definition_fa">موجودات انرژی [AUTOTRANSLATED]</column>
       <column name="definition_sv">energivarelser</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">энергетические сущности</column>
       <column name="definition_zh_HK">能量眾生 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6237,7 +6257,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">mächtig, gewaltig</column>
       <column name="definition_fa">قدرتمند بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara kraftfull</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть мощным, быть могущественным</column>
       <column name="definition_zh_HK">要有力量 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6343,7 +6363,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">berühren, fühlen</column>
       <column name="definition_fa">لمس کنید، احساس کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">röra, känna</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">трогать, прикасаться, чуствовать</column>
       <column name="definition_zh_HK">觸摸，感覺 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6378,7 +6398,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">projezieren, auf den Schirm bringen</column>
       <column name="definition_fa">پروژه (روی صفحه) [AUTOTRANSLATED]</column>
       <column name="definition_sv">projicera, visa (på skärm)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">проектировать, отразить что-то(на экране)</column>
       <column name="definition_zh_HK">項目，穿上（屏幕） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6387,7 +6407,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Имеется омофон {Hotlh:v:2} прпедполагающий, что глагол относится к совмещенному действию захвата и показа изображения.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -6396,7 +6416,8 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {yIHotlh!:sen:1}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -6414,7 +6435,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">scannen, abtasten</column>
       <column name="definition_fa">اسکن کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">avsöka, granska, undersöka</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">сканировать, искать</column>
       <column name="definition_zh_HK">掃描 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6433,7 +6454,9 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {nuHotlhpu''a'?:sen}
+▶ {yIHotlh!:sen:2}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -6451,7 +6474,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Scanner, Abtaster</column>
       <column name="definition_fa">اسکنر [AUTOTRANSLATED]</column>
       <column name="definition_sv">avsökare, scanner</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">сканер</column>
       <column name="definition_zh_HK">掃描器 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6486,7 +6509,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Stern</column>
       <column name="definition_fa">ستاره (اخترشناسی)</column>
       <column name="definition_sv">stjärna</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">звезда(астрономическое тело)</column>
       <column name="definition_zh_HK">恆星</column>
       <column name="synonyms">{jul:n}</column>
       <column name="antonyms"></column>
@@ -6495,7 +6518,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Относится к астрономическому телу, а не к геометрической фигуре, для которой смотрите {DujtlhuQ:n}.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">This is defined in {TKD:src} only as "star". The "astronomy" part was added for clarification.</column>
       <column name="components"></column>
@@ -6668,7 +6691,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Du grüßt die Sterne.</column>
       <column name="definition_fa">شما ستاره ها را ستایش میکردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">Du hälsar stjärnorna. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Ты приветствуешь звезды</column>
       <column name="definition_zh_HK">你向星星致敬。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6677,7 +6700,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Эта идиома означает "Я доверяю тебе" или "Я знаю, что ты сдержишь свое слово".</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{Hov:n}, {-mey:n:suff}, {Da-:v:pref}, {van:v:1}</column>
@@ -6739,7 +6762,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Sternensystem</column>
       <column name="definition_fa">سیستم ستاره [AUTOTRANSLATED]</column>
       <column name="definition_sv">solsystem</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Звездная система</column>
       <column name="definition_zh_HK">星系 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6774,7 +6797,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">gratulieren</column>
       <column name="definition_fa">تبریک میگم [AUTOTRANSLATED]</column>
       <column name="definition_sv">gratulera</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">поздравлять</column>
       <column name="definition_zh_HK">祝賀 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6809,7 +6832,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">bewundern, respektieren, mögen</column>
       <column name="definition_fa">تحسین [AUTOTRANSLATED]</column>
       <column name="definition_sv">beundra</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">восхищаться</column>
       <column name="definition_zh_HK">欣賞 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
