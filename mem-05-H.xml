@@ -6832,7 +6832,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">bewundern, respektieren, mögen</column>
       <column name="definition_fa">تحسین [AUTOTRANSLATED]</column>
       <column name="definition_sv">beundra</column>
-      <column name="definition_ru">восхищаться</column>
+      <column name="definition_ru">восхищаться, восторгаться</column>
       <column name="definition_zh_HK">欣賞 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6867,7 +6867,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Zahn</column>
       <column name="definition_fa">دندان</column>
       <column name="definition_sv">tand</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">зуб</column>
       <column name="definition_zh_HK">牙齒</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6876,7 +6876,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Отдельно от дословного перевода, как части тела, это слово может использоваться, чтобы описать "зубы" на зубчатом колесе или цепном колесе</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -7007,7 +7007,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Zahnbürste</column>
       <column name="definition_fa">مسواک</column>
       <column name="definition_sv">tandborste</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">зубная щетка</column>
       <column name="definition_zh_HK">牙刷</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7077,7 +7077,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Zahnpasta</column>
       <column name="definition_fa">خمیر دندان</column>
       <column name="definition_sv">tandkräm</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">зубная паста</column>
       <column name="definition_zh_HK">牙膏</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7147,7 +7147,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Zahnschmerz</column>
       <column name="definition_fa">دندان‌درد</column>
       <column name="definition_sv">tandvärk</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">зубная боль</column>
       <column name="definition_zh_HK">牙疼</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7182,7 +7182,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">System, Methode, Weise, Technik</column>
       <column name="definition_fa">سیستم، روش، شیوه، تکنیک [AUTOTRANSLATED]</column>
       <column name="definition_sv">system, metod, sätt, teknik [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">система(подход), метод, способ, образ действий, техника</column>
       <column name="definition_zh_HK">系統，方法，方式，技術 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7201,7 +7201,9 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {ghItlhmeH Ho'DoS:n}
+▶ {QIch wab Ho'DoS:n}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags">way</column>
       <column name="search_tags_de"></column>
@@ -7219,7 +7221,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Zoo</column>
       <column name="definition_fa">باغ وحش [AUTOTRANSLATED]</column>
       <column name="definition_sv">zoo</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">зоопарк</column>
       <column name="definition_zh_HK">動物園 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7254,7 +7256,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">verteidigen</column>
       <column name="definition_fa">دفاع [AUTOTRANSLATED]</column>
       <column name="definition_sv">försvara</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">защищать, оборонять, отстаивать</column>
       <column name="definition_zh_HK">保衛 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7289,7 +7291,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Verteidigung</column>
       <column name="definition_fa">دفاع [AUTOTRANSLATED]</column>
       <column name="definition_sv">försvar</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">защита, оборона, укрепления, оборонительные сооружения</column>
       <column name="definition_zh_HK">防禦 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7307,7 +7309,8 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {'entepray' Hub patmey luchu'be'lu'pu'.:sen}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -7360,7 +7363,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Geld</column>
       <column name="definition_fa">پول [AUTOTRANSLATED]</column>
       <column name="definition_sv">pengar</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">деньги</column>
       <column name="definition_zh_HK">錢 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7501,7 +7504,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Traue keinem Ferengi der Geld zurückgibt.</column>
       <column name="definition_fa">به Ferengi که به پول پشت سر بگذارند اعتماد نکردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">Lita inte på Ferengi som ger tillbaka pengar. [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Не доверяй ференги, который возвращает деньги</column>
       <column name="definition_zh_HK">不要相信那些還錢的Ferengi。 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7606,7 +7609,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Berg, Hügel</column>
       <column name="definition_fa">کوه، تپه [AUTOTRANSLATED]</column>
       <column name="definition_sv">berg, kulle</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">гора, холм</column>
       <column name="definition_zh_HK">山，山 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7641,7 +7644,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">die schwarzen Hügel</column>
       <column name="definition_fa">سیاه چاله ها [AUTOTRANSLATED]</column>
       <column name="definition_sv">Black Hills [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Черные холмы</column>
       <column name="definition_zh_HK">黑山</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7781,7 +7784,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Kehle</column>
       <column name="definition_fa">گلو [AUTOTRANSLATED]</column>
       <column name="definition_sv">hals, strupe</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">глотка, горло, жерло</column>
       <column name="definition_zh_HK">喉 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7799,7 +7802,8 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {qaStaHvIS wa' ram loS SaD Hugh SIjlaH qetbogh loD.:sen}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -7817,14 +7821,14 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="definition_de">Galle, Schleim</column>
       <column name="definition_fa">لجن [AUTOTRANSLATED]</column>
       <column name="definition_sv">galla, slem</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">тина, слизь, муть</column>
       <column name="definition_zh_HK">粘液 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{char:v}, {quy'Ip:n}, {chej:n}</column>
-      <column name="notes">Depending on the context, this word may also be glossed as "bile" or "gall".
+      <column name="notes">В зависимости от контекста, это слово может означать "желчь" or "gall".
 
-Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
+Смотрите, как Гаурон говорит это: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -7854,7 +7858,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="definition_de">fremd, seltsam sein</column>
       <column name="definition_fa">عجیبه [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara konstig, vara underlig</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть странным, быть незнакомым</column>
       <column name="definition_zh_HK">很奇怪 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7877,7 +7881,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">незнакомый</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {TKD:src}, [2] {Saarbrücken qepHom'a' 2017:src}</column>
     </table>
@@ -7889,7 +7893,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="definition_de">laden</column>
       <column name="definition_fa">شارژ (بالا) [AUTOTRANSLATED]</column>
       <column name="definition_sv">fylla (på), ladda (upp)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">заряжать, производить зарядку</column>
       <column name="definition_zh_HK">充電） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7898,7 +7902,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Некто сперва заряжает ({Huj:v:2,nolink}) устройство, перед его включением ({rIH:v}).</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -7924,7 +7928,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="definition_de">klebrig</column>
       <column name="definition_fa">چسبنده بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara klibbig</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть липким, быть клейким, быть липучим</column>
       <column name="definition_zh_HK">粘 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7959,7 +7963,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="definition_de">Mensch</column>
       <column name="definition_fa">انسان [AUTOTRANSLATED]</column>
       <column name="definition_sv">människa</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Человек(вид)</column>
       <column name="definition_zh_HK">人、人類</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -7982,7 +7986,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">землянин, человек</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -8031,7 +8035,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="definition_de">Sicherheit</column>
       <column name="definition_fa">امنیت [AUTOTRANSLATED]</column>
       <column name="definition_sv">säkerhet</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">безопасность, охрана, защита, надежность</column>
       <column name="definition_zh_HK">安全 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -8049,7 +8053,8 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {Hung buv rav; patlh Hut:sen:nolink} "Уровень секретности 9 и выше"[2]</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -8067,7 +8072,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="definition_de">(be)strafen</column>
       <column name="definition_fa">تنبیه کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">straffa</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">наказывать, карать, расправляться, наказать</column>
       <column name="definition_zh_HK">懲治 [AUTOTRANSLATED]</column>
       <column name="synonyms">{bIj:v}</column>
       <column name="antonyms"></column>
@@ -8102,7 +8107,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="definition_de">Geschäfte usw. (durch)führen, abwickeln</column>
       <column name="definition_fa">معاملات [AUTOTRANSLATED]</column>
       <column name="definition_sv">göra upp, avtala, göra (affärer)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">совершать сделку</column>
       <column name="definition_zh_HK">辦理 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -8120,7 +8125,8 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {batlh malja' DaHuq.:sen}</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -8211,7 +8217,7 @@ Types of {HurDagh:n:nolink} include the {Supghew:n} (small), the {leSpal:n} (med
       <column name="definition_de">dunkel, ohne Licht</column>
       <column name="definition_fa">تاریک بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara mörk</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть темным, быть мрачным</column>
       <column name="definition_zh_HK">天黑了 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{wov:v}</column>
@@ -8246,7 +8252,7 @@ Types of {HurDagh:n:nolink} include the {Supghew:n} (small), the {leSpal:n} (med
       <column name="definition_de">(Essig)Gurke</column>
       <column name="definition_fa">ترشی (خیار) [AUTOTRANSLATED]</column>
       <column name="definition_sv">pickels (gurka)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">солёный огурец</column>
       <column name="definition_zh_HK">泡菜（黃瓜） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -8269,7 +8275,7 @@ Types of {HurDagh:n:nolink} include the {Supghew:n} (small), the {leSpal:n} (med
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_ru">огурец</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
@@ -8351,7 +8357,7 @@ Types of {HurDagh:n:nolink} include the {Supghew:n} (small), the {leSpal:n} (med
       <column name="definition_de">hängen</column>
       <column name="definition_fa">آویزان شدن [AUTOTRANSLATED]</column>
       <column name="definition_sv">hänga</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">вешать, развесить, свисать, увешивать</column>
       <column name="definition_zh_HK">掛 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -8421,7 +8427,7 @@ Types of {HurDagh:n:nolink} include the {Supghew:n} (small), the {leSpal:n} (med
       <column name="definition_de">neun</column>
       <column name="definition_fa">نُه</column>
       <column name="definition_sv">nio</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">девять</column>
       <column name="definition_zh_HK">九</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -8456,7 +8462,7 @@ Types of {HurDagh:n:nolink} include the {Supghew:n} (small), the {leSpal:n} (med
       <column name="definition_de">neunte/r</column>
       <column name="definition_fa">نهمین</column>
       <column name="definition_sv">nionde</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">девятый</column>
       <column name="definition_zh_HK">第九</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -8737,7 +8743,7 @@ Types of {HurDagh:n:nolink} include the {Supghew:n} (small), the {leSpal:n} (med
       <column name="definition_de">klar, niche trübe</column>
       <column name="definition_fa">روشن شود، مانع شود [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara klar, vara icke-skymd</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть чистым, быть незатрудненным</column>
       <column name="definition_zh_HK">要清楚，不要阻礙 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -8807,7 +8813,7 @@ Types of {HurDagh:n:nolink} include the {Supghew:n} (small), the {leSpal:n} (med
       <column name="definition_de">Augenbraue</column>
       <column name="definition_fa">ابرو [AUTOTRANSLATED]</column>
       <column name="definition_sv">ögonbryn</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">бровь</column>
       <column name="definition_zh_HK">眉 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -8877,7 +8883,7 @@ Types of {HurDagh:n:nolink} include the {Supghew:n} (small), the {leSpal:n} (med
       <column name="definition_de">vor ... Tagen</column>
       <column name="definition_fa">چند روز قبل [AUTOTRANSLATED]</column>
       <column name="definition_sv">för ... dagar sedan</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">дней назад</column>
       <column name="definition_zh_HK">幾天前 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{leS:n}</column>
@@ -8912,7 +8918,7 @@ Types of {HurDagh:n:nolink} include the {Supghew:n} (small), the {leSpal:n} (med
       <column name="definition_de">aufstehen</column>
       <column name="definition_fa">بلند شو [AUTOTRANSLATED]</column>
       <column name="definition_sv">gå upp, kliva upp</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">вставать, подниматься, усиливать</column>
       <column name="definition_zh_HK">起床 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -8947,7 +8953,7 @@ Types of {HurDagh:n:nolink} include the {Supghew:n} (small), the {leSpal:n} (med
       <column name="definition_de">(Schimpfwort)</column>
       <column name="definition_fa">به طور کلی مصنوعی [AUTOTRANSLATED]</column>
       <column name="definition_sv">generellt invektiv</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">общее оскорбление</column>
       <column name="definition_zh_HK">一般的in罵 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
