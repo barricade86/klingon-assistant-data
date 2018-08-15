@@ -3707,8 +3707,7 @@ Siehe wie Gowron dies sagt: {YouTube video:url:http://youtu.be/Wq5mvIWRSKc}</col
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru">
-▶ {yIHmey DaHIj'a'?  ghobe', yIHmey vIHIjbe'.} "Вы перевозите трибблов?Нет.Я не перевожу трибблов."[2]
-      </column>
+▶ {yIHmey DaHIj'a'?  ghobe', yIHmey vIHIjbe'.} "Вы перевозите трибблов?Нет.Я не перевожу трибблов."[2]</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -7826,7 +7825,7 @@ This verb is also used for regular polygons and polyhedra.[2]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{char:v}, {quy'Ip:n}, {chej:n}</column>
-      <column name="notes">В зависимости от контекста, это слово может означать "желчь" or "gall".
+      <column name="notes">В зависимости от контекста, это слово может означать "желчь".
 
 Смотрите, как Гаурон говорит это: {YouTube video:url:http://youtu.be/tAK-hgXMH-M}</column>
       <column name="notes_de"></column>
