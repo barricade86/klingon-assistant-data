@@ -149,7 +149,6 @@ The title of the book may be a reference to the Twilight Zone episode "To Serve 
       <column name="definition_fa">سرور غذا، پیشخدمت، پیشخدمت [AUTOTRANSLATED]</column>
       <column name="definition_sv">kypare, servitör, servitris</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chom:n}, {tebwI':n}, {vutwI':n}</column>
@@ -325,7 +324,6 @@ The title of the book may be a reference to the Twilight Zone episode "To Serve 
       <column name="definition_fa">قاچاق (اشیاء، وظایف) [AUTOTRANSLATED]</column>
       <column name="definition_sv">jonglera (objekt, inte uppgifter) [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1011,7 +1009,6 @@ For "days ago" and "days from now", see {Hu':n} and {leS:n}, respectively.</colu
       <column name="definition_fa">ژان-لوک پیکارد</column>
       <column name="definition_sv">Jean-Luc Picard</column>
       <column name="definition_ru">Жан-Люк Пикар</column>
-      <column name="definition_zh_HK">让-吕克·皮卡尔</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1190,7 +1187,6 @@ In Klingon, titles generally go after the name, so "Captain Jean-Luc Picard" wou
       <column name="definition_fa">بلوغ، جکتهلا [AUTOTRANSLATED]</column>
       <column name="definition_sv">puberteten, jak'tahla [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{gho'rIch:n}</column>
