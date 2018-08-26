@@ -5090,7 +5090,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_fa">رهایی [AUTOTRANSLATED]</column>
       <column name="definition_sv">släpp [AUTOTRANSLATED]</column>
       <column name="definition_ru">отпускать кого-то, освобождать</column>
-      <column name="definition_zh_HK">俘獲、捕獲</column>
+      <column name="definition_zh_HK">釋放</column>
       <column name="synonyms"></column>
       <column name="antonyms">{jon:v}</column>
       <column name="see_also"></column>
@@ -5226,7 +5226,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="entry_name">jonta'</column>
       <column name="part_of_speech">n</column>
       <column name="definition">engine</column>
-      <column name="definition_de"></column>
+      <column name="definition_de">Antrieb, Motor</column>
       <column name="definition_fa">موتور [AUTOTRANSLATED]</column>
       <column name="definition_sv">maskin</column>
       <column name="definition_ru">Двигатель</column>
@@ -5371,7 +5371,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_fa">شوت، محور [AUTOTRANSLATED]</column>
       <column name="definition_sv">stöta, sticka</column>
       <column name="definition_ru">ринуться, устремиться, толкать</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">刺、推力 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{baQ:v:1}, {way':v}, {chaQ:v}, {ngol:v}, {lev:v}, {DIj:v:1}, {jIrmoH:v}</column>
@@ -5477,7 +5477,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_fa">flap، flutter، wave [AUTOTRANSLATED]</column>
       <column name="definition_sv">fladdra, flaxa</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">皮瓣、撲動、波浪 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{laq:v}, {joqwI':n}</column>
@@ -5531,7 +5531,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_fa">یا، و / یا (پیوند اسم ها) [AUTOTRANSLATED]</column>
       <column name="definition_sv">eller, och/eller</column>
       <column name="definition_ru">или, и/или(объединяет существительные)</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">或者、和/或（加入名詞） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{je:conj}, {ghap:conj}, {qoj:conj}</column>
@@ -5811,7 +5811,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_fa">نمایش، صحنه، منظره، دید، چشم انداز [AUTOTRANSLATED]</column>
       <column name="definition_sv">utsikt, scen, landskap, syn, landskap [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">視圖、場景、風景、景觀、景觀 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -5881,7 +5881,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_fa">شایعه شایعه [AUTOTRANSLATED]</column>
       <column name="definition_sv">rykte, skvaller</column>
       <column name="definition_ru">слух, сплетня</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">謠言、八卦 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{joS:v}</column>
@@ -6635,7 +6635,7 @@ If {-Daq:n} is used, it implies a miss: air was blown towards the object, but by
       <column name="definition_fa">فرار کن، اقدام اخراج کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">undvika, vidta undvikande åtgärder</column>
       <column name="definition_ru">уклоняться, предпринять уклонительные действия</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">逃避、採取規避行動 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlha':v}, {nargh:v:2}</column>
@@ -6740,7 +6740,7 @@ If {-Daq:n} is used, it implies a miss: air was blown towards the object, but by
       <column name="definition_fa">غرق شدن، گذشتن [AUTOTRANSLATED]</column>
       <column name="definition_sv">komma ifatt, passera</column>
       <column name="definition_ru">догонять, настигать, проходить</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">超車、過關 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
