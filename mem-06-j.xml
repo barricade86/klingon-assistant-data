@@ -2451,7 +2451,7 @@ There is also an idiom, {jej; Daqtagh rur}.</column>
       <column name="definition_fa">احساس، احساس، درک، تشخیص [AUTOTRANSLATED]</column>
       <column name="definition_sv">känna, känna, uppfatta, upptäcka [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">感覺、感覺、感知、發現 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{noch:n}, {tIw:v}</column>
@@ -2486,7 +2486,7 @@ There is also an idiom, {jej; Daqtagh rur}.</column>
       <column name="definition_fa">جيمس تی کیرک </column>
       <column name="definition_sv">James T. Kirk</column>
       <column name="definition_ru">Джеймс Т. Кирк</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">「詹姆斯·T·柯克」</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Hov leng:n}, {'entepray':n:name}</column>
@@ -2525,7 +2525,7 @@ Note that {jemS:n:nolink} and {qIrq:n:nolink} do not follow proper Klingon phono
       <column name="definition_fa">قلعه، قلعه [AUTOTRANSLATED]</column>
       <column name="definition_sv">slott, fästning [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">城堡、堡壘 [AUTOTRANSLATED]</column
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{waw':n}, {DuHmor:n}</column>
@@ -2704,7 +2704,7 @@ Note that {jemS:n:nolink} and {qIrq:n:nolink} do not follow proper Klingon phono
       <column name="definition_fa">باشگاه، جادوگر [AUTOTRANSLATED]</column>
       <column name="definition_sv">klubba, påk</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">俱樂部、大棒 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghanjaq:n}, {Qach:v}</column>
@@ -2960,7 +2960,7 @@ This verb is used in Sonnet 116, where its explicit subject is {muD:n:nolink}.[2
       <column name="definition_fa">خفه شو، صدای نفس کشیدن [AUTOTRANSLATED]</column>
       <column name="definition_sv">väsa, rossla, andas ljudligt</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">喘息、大聲呼吸 [AUTOTRANSLATED]</column>
       <column name="synonyms">{tlhov:v}</column>
       <column name="antonyms"></column>
       <column name="see_also">{wuD:v}, {pur:v}, {rech:v}, {tlhuH:v:1}, {chuy:v}</column>
