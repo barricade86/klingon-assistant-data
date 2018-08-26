@@ -4803,7 +4803,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_fa">سیستم حمل و نقل [AUTOTRANSLATED]</column>
       <column name="definition_sv">transportersystem</column>
       <column name="definition_ru">система транспортера</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">傳送裝置系統</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{rIH:v}, {chu':v:2}</column>
@@ -4840,7 +4840,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_fa">اتاق حمل و نقل [AUTOTRANSLATED]</column>
       <column name="definition_sv">transporterrum</column>
       <column name="definition_ru">комната транспортера</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">傳送室</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -4875,7 +4875,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_fa">برو به اتاق حمل و نقل! [AUTOTRANSLATED]</column>
       <column name="definition_sv">Gå till transportrummet! [AUTOTRANSLATED]</column>
       <column name="definition_ru">Иди в транспортаторную</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">到傳送室！</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -4982,7 +4982,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_fa">پرتو حمل و نقل را فعال کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">Aktivera transportstrålen! [AUTOTRANSLATED]</column>
       <column name="definition_ru">Активировать луч транспортера!</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">開始傳送！</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HIjol!:sen}</column>
@@ -5052,7 +5052,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_fa">گرفتن [AUTOTRANSLATED]</column>
       <column name="definition_sv">fånga, ta till fånga</column>
       <column name="definition_ru">захватывать, добывать что-то(как трофей), пленять</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">俘獲、捕獲</column>
       <column name="synonyms"></column>
       <column name="antonyms">{jonHa':v}</column>
       <column name="see_also">{nargh:v:2}, {bIghHa':n}</column>
@@ -5090,7 +5090,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_fa">رهایی [AUTOTRANSLATED]</column>
       <column name="definition_sv">släpp [AUTOTRANSLATED]</column>
       <column name="definition_ru">отпускать кого-то, освобождать</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">俘獲、捕獲</column>
       <column name="synonyms"></column>
       <column name="antonyms">{jon:v}</column>
       <column name="see_also"></column>
@@ -5195,7 +5195,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_fa">مهندسی، مکان کنترل موتور [AUTOTRANSLATED]</column>
       <column name="definition_sv">ingenjörskontroll, plats för motorstyrning [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">工程、發動機控制位置 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yo'SeH yaHnIv:n}, {jonwI':n}, {jonpIn:n}</column>
