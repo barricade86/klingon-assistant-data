@@ -1119,7 +1119,7 @@ In Klingon, titles generally go after the name, so "Captain Jean-Luc Picard" wou
       <column name="definition_de">tapfer, kühn</column>
       <column name="definition_fa">جسور باشید [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara djärv, vara dristig</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть смелым, быть храбрым, быть дерзким</column>
       <column name="definition_zh_HK">大膽 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1296,7 +1296,7 @@ Note that in Klingon, "deep space" is called {logh Hop:n}, literally, "far space
       <column name="definition_de">Monat</column>
       <column name="definition_fa">ماه (کلینگان) [AUTOTRANSLATED]</column>
       <column name="definition_sv">månad (klingonsk)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">месяц(Клингонское исчисление)</column>
       <column name="definition_zh_HK">月（克林崗語） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1305,7 +1305,7 @@ Note that in Klingon, "deep space" is called {logh Hop:n}, literally, "far space
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Для "месяцев назад" и "месяцев спустя", смотрите {wen:n} и {waQ:n}, соответственно.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -1331,7 +1331,7 @@ Note that in Klingon, "deep space" is called {logh Hop:n}, literally, "far space
       <column name="definition_de">Stirn</column>
       <column name="definition_fa">پیشانی</column>
       <column name="definition_sv">panna</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">лоб</column>
       <column name="definition_zh_HK">額頭</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1576,7 +1576,7 @@ Note that in Klingon, "deep space" is called {logh Hop:n}, literally, "far space
       <column name="definition_de">sagen, sprechen</column>
       <column name="definition_fa">بگو [AUTOTRANSLATED]</column>
       <column name="definition_sv">säga, berätta, tala, prata</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">говорить, разговаривать, высказывать, высказываться, сказать</column>
       <column name="definition_zh_HK">說、話、講</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1732,7 +1732,7 @@ In the {msn:src} newsgroup message, it says only that the verb prefix indicating
       <column name="definition_de">sechste</column>
       <column name="definition_fa">ششمین</column>
       <column name="definition_sv">sjätte</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">шестой</column>
       <column name="definition_zh_HK">第六</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1874,7 +1874,7 @@ In {TKD:src} this word is defined as "lord" only, same as {joH:n:nolink}. Howeve
       <column name="definition_de">Intensivierung</column>
       <column name="definition_fa">شدیدا (انفجاری) [AUTOTRANSLATED]</column>
       <column name="definition_sv">intensivt (invektiv)</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">интенсивно</column>
       <column name="definition_zh_HK">激烈的（in罵） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
