@@ -3243,7 +3243,7 @@ This verb is used in Sonnet 116, where its explicit subject is {muD:n:nolink}.[2
       <column name="definition_fa">تغذیه (شخص دیگری)، روح را غنی سازد [AUTOTRANSLATED]</column>
       <column name="definition_sv">mata (någon annan)</column>
       <column name="definition_ru">кормить кого-то, обогащать дух</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">餵（別人）、充實精神 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Sop:v}, {Soj:n}, {qa':n}, {je':v:1}</column>
@@ -3666,7 +3666,7 @@ The imperative verb prefix when {jIH:n:1h,nolink} is the object is {HI-:v:pref}.
       <column name="definition_fa">همسایه [AUTOTRANSLATED]</column>
       <column name="definition_sv">granne</column>
       <column name="definition_ru">Сосед</column>
-      <column name="definition_zh_HK">鄰居 [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">鄰居</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3771,7 +3771,7 @@ The imperative verb prefix when {jIH:n:1h,nolink} is the object is {HI-:v:pref}.
       <column name="definition_fa">آرزو کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">önskar [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">願望</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chabal:n}</column>
@@ -3914,7 +3914,7 @@ To express a wish for something to happen, see {-jaj:v}.</column>
       <column name="definition_fa">استودیو، فضای کاری [AUTOTRANSLATED]</column>
       <column name="definition_sv">studio, arbetsyta [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">工作室、工作區 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -4019,7 +4019,7 @@ To express a wish for something to happen, see {-jaj:v}.</column>
       <column name="definition_fa">چرخش بته، باعث می شود بطول به چرخش [AUTOTRANSLATED]</column>
       <column name="definition_sv">snurra en bat'leth, få en bat'leth att rotera</column>
       <column name="definition_ru">батлет(меч Клингона)</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">旋轉bat'leth、導致bat'leth旋轉 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{betleH:n}, {jop:v}, {baQ:v:1}, {way':v}, {chaQ:v}, {ngol:v}, {lev:v}, {DIj:v:1}</column>
