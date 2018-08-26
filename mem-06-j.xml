@@ -2525,7 +2525,7 @@ Note that {jemS:n:nolink} and {qIrq:n:nolink} do not follow proper Klingon phono
       <column name="definition_fa">قلعه، قلعه [AUTOTRANSLATED]</column>
       <column name="definition_sv">slott, fästning [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK">城堡、堡壘 [AUTOTRANSLATED]</column
+      <column name="definition_zh_HK">城堡、堡壘 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{waw':n}, {DuHmor:n}</column>
@@ -3031,7 +3031,7 @@ This verb is used in Sonnet 116, where its explicit subject is {muD:n:nolink}.[2
       <column name="definition_fa">برنامه سفر، مسیر مسافرت [AUTOTRANSLATED]</column>
       <column name="definition_sv">resväg, rutt, resplan</column>
       <column name="definition_ru">маршрут</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">行程</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Hoq:n}, {leng:n}, {leng:v}</column>
@@ -3206,7 +3206,7 @@ This verb is used in Sonnet 116, where its explicit subject is {muD:n:nolink}.[2
       <column name="definition_fa">خرید، خرید [AUTOTRANSLATED]</column>
       <column name="definition_sv">köpa, handla</column>
       <column name="definition_ru">покупать</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">買、購買 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngev:v}, {DIl:v}, {tlhong:v}, {je':v:2}</column>
