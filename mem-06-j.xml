@@ -1909,7 +1909,7 @@ In {TKD:src} this word is defined as "lord" only, same as {joH:n:nolink}. Howeve
       <column name="definition_de">sagen, berichten</column>
       <column name="definition_fa">بگو، گزارش بده [AUTOTRANSLATED]</column>
       <column name="definition_sv">berätta, rapportera</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">сказать, рассказывать, сообщать, отчитываться</column>
       <column name="definition_zh_HK">報告</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1918,7 +1918,7 @@ In {TKD:src} this word is defined as "lord" only, same as {joH:n:nolink}. Howeve
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Это один из нескольких "речевых глаголов" в Клингонском.[2] (Смотрите {jatlh:v} для пояснения.)</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">In the {HolQeD:src} interview, Will Martin suggested that a typical direct object of this verb is the person addressed. This was not contradicted by Marc Okrand, but not explicitly affirmed, either.[2]</column>
       <column name="components"></column>
@@ -1928,7 +1928,8 @@ In {TKD:src} this word is defined as "lord" only, same as {joH:n:nolink}. Howeve
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {nuja'rup.:sen:nolink} "Они готовы рассказать нам."[1]</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -1946,7 +1947,7 @@ In {TKD:src} this word is defined as "lord" only, same as {joH:n:nolink}. Howeve
       <column name="definition_de">diskutieren</column>
       <column name="definition_fa">بحث کن، موافقم [AUTOTRANSLATED]</column>
       <column name="definition_sv">diskutera, konferera</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">обсуждать, дискутировать, совещаться</column>
       <column name="definition_zh_HK">討論、商量 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1955,7 +1956,7 @@ In {TKD:src} this word is defined as "lord" only, same as {joH:n:nolink}. Howeve
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Глагол составлен из {ja':v} плюс суффикс {-chuq:v}[1, стр.66]. Невзирая на это, похоже, что он может принимать тему обсуждения как объект,хотя точная грамматика неясна.[3]</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{ja':v}, {-chuq:v}</column>
@@ -1965,7 +1966,9 @@ In {TKD:src} this word is defined as "lord" only, same as {joH:n:nolink}. Howeve
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
+      <column name="examples_ru">
+▶ {'uQ wISoppu'DI' maja'chuq.:sen:nolink} "Мы поговори после ужина."[2]
+▶ {quv HIja'chuqQo'!:sen:nolink} "Не говори со мной о чести!"[3]</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
@@ -2094,7 +2097,7 @@ In addition to nouns, {je:sen:nolink} can also follow a verb. See {je:adv}.</col
       <column name="definition_de">verkleiden, kostümieren</column>
       <column name="definition_fa">مخفی کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">förkläda, klä ut</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">маскировать, делать неузнаваемым, скрывать</column>
       <column name="definition_zh_HK">偽裝 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2129,7 +2132,7 @@ In addition to nouns, {je:sen:nolink} can also follow a verb. See {je:adv}.</col
       <column name="definition_de">Verkleidung</column>
       <column name="definition_fa">مخفی کردن، صحنه و لباس [AUTOTRANSLATED]</column>
       <column name="definition_sv">förklädnad, dräkt</column>
-      <column name="definition_ru">маскировать, скрывать, одевать</column>
+      <column name="definition_ru">маскировка, сокрытие, обман, личина</column>
       <column name="definition_zh_HK">偽裝、服裝 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2199,7 +2202,7 @@ In addition to nouns, {je:sen:nolink} can also follow a verb. See {je:adv}.</col
       <column name="definition_de">aufgeben, sich ergeben</column>
       <column name="definition_fa">تسلیم شدن، رها کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">kapitulera, ge upp</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">сдаваться в плен, капитулировать</column>
       <column name="definition_zh_HK">投降、放棄</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2524,7 +2527,7 @@ Note that {jemS:n:nolink} and {qIrq:n:nolink} do not follow proper Klingon phono
       <column name="definition_de">Schloss, Burg, Festung</column>
       <column name="definition_fa">قلعه، قلعه [AUTOTRANSLATED]</column>
       <column name="definition_sv">slott, fästning [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">замок, крепость</column>
       <column name="definition_zh_HK">城堡、堡壘 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2559,7 +2562,7 @@ Note that {jemS:n:nolink} and {qIrq:n:nolink} do not follow proper Klingon phono
       <column name="definition_de">hoch</column>
       <column name="definition_fa">بالا بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara hög</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть высоким, быть высшим</column>
       <column name="definition_zh_HK">要高 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'eS:v}</column>
@@ -2568,7 +2571,7 @@ Note that {jemS:n:nolink} and {qIrq:n:nolink} do not follow proper Klingon phono
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru">быть высоким, быть высшим</column>
+      <column name="notes_ru">Это слово нельзя применять к описанию размеров людей</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -3591,7 +3594,7 @@ The imperative verb prefix when {jIH:n:1h,nolink} is the object is {HI-:v:pref}.
       <column name="definition_de">kooperieren, zusammenarbeiten</column>
       <column name="definition_fa">همکاری، همکاری [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara samarbetsvillig</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">быть совместным, кооперироваться</column>
       <column name="definition_zh_HK">合作</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -3600,7 +3603,7 @@ The imperative verb prefix when {jIH:n:1h,nolink} is the object is {HI-:v:pref}.
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Субъектом являются кооперирующиеся группы</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">This is missing from E-K side of {TKD:src}, and furthermore the K-E side defines it as "cooperate". However, {KGT:src} clarifies that this word means "be cooperative".</column>
       <column name="components"></column>
@@ -5476,7 +5479,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_de">flattern, wehen</column>
       <column name="definition_fa">flap، flutter، wave [AUTOTRANSLATED]</column>
       <column name="definition_sv">fladdra, flaxa</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">махать, колыхаться, развеваться, трепетать</column>
       <column name="definition_zh_HK">皮瓣、撲動、波浪 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -5485,7 +5488,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Этот глагол также используется, чтобы обозначить сердцебиение ({tIq:n}).[2]</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -5600,7 +5603,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_de">Rippe</column>
       <column name="definition_fa">دنده [AUTOTRANSLATED]</column>
       <column name="definition_sv">revben</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">ребро</column>
       <column name="definition_zh_HK">肋骨 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6331,7 +6334,7 @@ If {-Daq:n} is used, it implies a miss: air was blown towards the object, but by
 ▶ {lojmItDaj veghta'DI' jubbe'wI':sen:nolink}
    {yInqa'meH chegh 'e' botnIS qotar:sen:nolink}
    {qeylIS HoHmeH qotar qeylIS SamnIS:sen:nolink}
-  "Котар и по сей день не может стать смертнымl
+  "Котар и по сей день не может стать смертным
    Пройдя сквозь его врата и вернувшись живым
    Кейлес должен быть выслежен и убит."[1]</column>
       <column name="examples_zh_HK"></column>
@@ -6564,7 +6567,7 @@ If {-Daq:n} is used, it implies a miss: air was blown towards the object, but by
       <column name="definition_de">Helium</column>
       <column name="definition_fa">هلیم [AUTOTRANSLATED]</column>
       <column name="definition_sv">helium [AUTOTRANSLATED]</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">Гелий</column>
       <column name="definition_zh_HK">氦氣</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -6573,7 +6576,7 @@ If {-Daq:n} is used, it implies a miss: air was blown towards the object, but by
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Это дословно значит "Солнечный газ"</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">Aside from the fact that Helium comes from the Greek word for "Sun" (helios), helium was also first detected by Jules Janssen.</column>
       <column name="components">{jul:n}, {SIp:n}</column>
