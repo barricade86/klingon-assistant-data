@@ -2021,7 +2021,7 @@ In {TKD:src} this word is defined as "lord" only, same as {joH:n:nolink}. Howeve
       <column name="definition_fa">همچنین، و (اسم های پیوندی) [AUTOTRANSLATED]</column>
       <column name="definition_sv">också, och</column>
       <column name="definition_ru">также, и(объединяет существительные)</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">還有、（加入名詞） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{joq:conj}, {'ej:conj}, {je:adv}</column>
@@ -2068,7 +2068,7 @@ In addition to nouns, {je:sen:nolink} can also follow a verb. See {je:adv}.</col
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru">Когда {je:adv:nolink} следует за глаголом, то это означает "также, тоже". {qaleghpu' je:sen:nolink} значит "Я таккже тебя видел"[1]</column>
+      <column name="notes_ru">Когда {je:adv:nolink} следует за глаголом, то это означает "также, тоже". {qaleghpu' je:sen:nolink} значит "Я также тебя видел"[1]</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes">This is considered a noun conjunction, rather than an adverbial, in {TKD:src}.</column>
       <column name="components"></column>
@@ -2129,8 +2129,8 @@ In addition to nouns, {je:sen:nolink} can also follow a verb. See {je:adv}.</col
       <column name="definition_de">Verkleidung</column>
       <column name="definition_fa">مخفی کردن، صحنه و لباس [AUTOTRANSLATED]</column>
       <column name="definition_sv">förklädnad, dräkt</column>
-      <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_ru">маскировать, скрывать, одевать</column>
+      <column name="definition_zh_HK">偽裝、服裝 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{jech:v}, {Sut:n}</column>
@@ -2164,7 +2164,7 @@ In addition to nouns, {je:sen:nolink} can also follow a verb. See {je:adv}.</col
       <column name="definition_de">viskos, zähflüssig, dick, dicht</column>
       <column name="definition_fa">ضخامت، متراکم بودن، چسبندگی باشد [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara tjock, vara seg, vara trögflytande</column>
-      <column name="definition_ru"></column>
+      <column name="definition_zh_HK">厚、密、粘稠 [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK"></column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2416,7 +2416,7 @@ There is also an idiom, {jej; Daqtagh rur}.</column>
       <column name="definition_fa">لرزش، لرزش [AUTOTRANSLATED]</column>
       <column name="definition_sv">skaka, skaka [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">搖晃、顫抖 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Qom:v:1}, {tav:v}, {wal:v}</column>
