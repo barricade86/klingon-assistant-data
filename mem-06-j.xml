@@ -4230,7 +4230,7 @@ To express a wish for something to happen, see {-jaj:v}.</column>
       <column name="definition_fa">جنایتکار، تبه کار، مالباخته [AUTOTRANSLATED]</column>
       <column name="definition_sv">kriminell, skurk, karlfaktor [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">犯罪、惡棍、犯罪分子 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chIvo':n}</column>
@@ -4373,7 +4373,7 @@ The first half of the example sentence was a lip-match for {ghaH vISammeH}.</col
       <column name="definition_fa">ترجمه، براق [AUTOTRANSLATED]</column>
       <column name="definition_sv">översättning, glans [AUTOTRANSLATED]</column>
       <column name="definition_ru">толкование, глоссарий, перевод</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">翻譯、光澤 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mugh:v}</column>
@@ -4408,7 +4408,7 @@ The first half of the example sentence was a lip-match for {ghaH vISammeH}.</col
       <column name="definition_fa">دستگیره، دستگیره، دستگیره [AUTOTRANSLATED]</column>
       <column name="definition_sv">handtag, knopp, dörrknapp [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">把手、把手、門把手 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{lojmIt:n}</column>
@@ -4443,7 +4443,7 @@ The first half of the example sentence was a lip-match for {ghaH vISammeH}.</col
       <column name="definition_fa">منابع [AUTOTRANSLATED]</column>
       <column name="definition_sv">resurser</column>
       <column name="definition_ru">ресурсы</column>
-      <column name="definition_zh_HK">資源 [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">資源（眾數）</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlhIl:v}, {tlhIl:n}</column>
@@ -4478,7 +4478,7 @@ The first half of the example sentence was a lip-match for {ghaH vISammeH}.</col
       <column name="definition_fa">زنجیر [AUTOTRANSLATED]</column>
       <column name="definition_sv">zigzag, vara taggad [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">之字形、鋸齒狀 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{wan:v}</column>
       <column name="see_also">{wanHa':v}</column>
@@ -4619,7 +4619,7 @@ The first half of the example sentence was a lip-match for {ghaH vISammeH}.</col
       <column name="definition_fa">بانوی، پروردگار (عنوان سرپرست خانه) [AUTOTRANSLATED]</column>
       <column name="definition_sv">Dam, Fru, Herre (familjeöverhuvud)</column>
       <column name="definition_ru">Леди, Лорд (титул для главы дома)</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">女士、主（房子頭銜） [AUTOTRANSLATED]</column>
       <column name="synonyms">{jaw:n}</column>
       <column name="antonyms"></column>
       <column name="see_also">{qaH:n}, {tuq:n}, {chuQun:n}</column>
@@ -4767,7 +4767,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", Lady Di (Diana, P
       <column name="definition_fa">پرتو حمل و نقل [AUTOTRANSLATED]</column>
       <column name="definition_sv">transporterstråle</column>
       <column name="definition_ru">транспортирующий луч, луч транспортера</column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">傳送束</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{jol:v}, {Qol:v}</column>
