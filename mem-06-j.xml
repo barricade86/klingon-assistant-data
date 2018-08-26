@@ -1366,7 +1366,7 @@ Note that in Klingon, "deep space" is called {logh Hop:n}, literally, "far space
       <column name="definition_de">verschieden, anders</column>
       <column name="definition_fa">متفاوت است [AUTOTRANSLATED]</column>
       <column name="definition_sv">annorlunda, på ett annat sätt</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">иначе, различно</column>
       <column name="definition_zh_HK">不同 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{jaSHa':adv}</column>
@@ -1402,7 +1402,7 @@ Note that in Klingon, "deep space" is called {logh Hop:n}, literally, "far space
       <column name="definition_fa">به طور مشابه، به همین ترتیب، به همان شیوه [AUTOTRANSLATED]</column>
       <column name="definition_sv">På samma sätt, på samma sätt [AUTOTRANSLATED]</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">類似地、同樣地、以相同的方式 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{jaS:adv}</column>
       <column name="see_also">{rap:v}, {-Ha':v:suff}</column>
@@ -1436,7 +1436,7 @@ Note that in Klingon, "deep space" is called {logh Hop:n}, literally, "far space
       <column name="definition_de">Zunge</column>
       <column name="definition_fa">زبان [AUTOTRANSLATED]</column>
       <column name="definition_sv">tunga</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">язык(орган)</column>
       <column name="definition_zh_HK">舌 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1472,7 +1472,7 @@ Note that in Klingon, "deep space" is called {logh Hop:n}, literally, "far space
       <column name="definition_fa">صحبت ناسنجنی، سرگیجه [AUTOTRANSLATED]</column>
       <column name="definition_sv">tala otydligt, mumla</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">說話語無倫次、咕 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{jatlh:v}</column>
@@ -1627,7 +1627,7 @@ In the {msn:src} newsgroup message, it says only that the verb prefix indicating
       <column name="definition_de">sechs</column>
       <column name="definition_fa">شش</column>
       <column name="definition_sv">sex</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">шесть</column>
       <column name="definition_zh_HK">六</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1802,7 +1802,7 @@ In the {msn:src} newsgroup message, it says only that the verb prefix indicating
       <column name="definition_de">quatschen, sich unterhalten</column>
       <column name="definition_fa">چت [AUTOTRANSLATED]</column>
       <column name="definition_sv">småprata, samtala</column>
-      <column name="definition_ru"></column>
+      <column name="definition_ru">болтать, вести непринужденную беседу, вести разговор</column>
       <column name="definition_zh_HK">聊 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -1838,7 +1838,7 @@ In the {msn:src} newsgroup message, it says only that the verb prefix indicating
       <column name="definition_fa">لرد، خانم [AUTOTRANSLATED]</column>
       <column name="definition_sv">herre</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">主、女士 [AUTOTRANSLATED]</column>
       <column name="synonyms">{joH:n}</column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1947,7 +1947,7 @@ In {TKD:src} this word is defined as "lord" only, same as {joH:n:nolink}. Howeve
       <column name="definition_fa">بحث کن، موافقم [AUTOTRANSLATED]</column>
       <column name="definition_sv">diskutera, konferera</column>
       <column name="definition_ru"></column>
-      <column name="definition_zh_HK"></column>
+      <column name="definition_zh_HK">討論、商量 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
