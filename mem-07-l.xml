@@ -272,6 +272,7 @@
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru">
+▶ {ghu' Dachupbogh vIlaj.:sen}
 ▶ {beq may' ta vIlajpu'} "Я принял запись экипажа о битве"[2]
 ▶ {ghopDu'wIjDaq yInmeyraj vIlaj} "Я принимаю ваши жизни в свои руки"[2]</column>
       <column name="examples_zh_HK"></column>
@@ -487,6 +488,7 @@
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru">
+▶ {nuqDaq Dochvam vIlan?:sen}
 ▶ {HurDaq tu'HomI'raHvetlh yIlan!:sen:nolink} "Убери отсюда этот хлам!"[2]</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags">put</column>
@@ -813,6 +815,7 @@ In English slang, a "lat"rine is sometimes called a "shrine".</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru">
+▶ {reH latlh qabDaq qul tuj law' Hoch tuj puS.:sen}[2]
 ▶ {yIntaH qIrq 'e' vIneH. DaSwIj bIngDaq latlhpu' vItap.:sen:nolink} "Кирка я хочу взять живым. Остальных я разотру под своим ботинком."[3]</column>
       <column name="examples_zh_HK"></column>
       <column name="search_tags">another</column>
@@ -2758,8 +2761,8 @@ This word can be used figuratively. There is an idiom, {let mInDu'Daj; Separmey 
       <column name="search_tags">be general</column>
       <column name="search_tags_de">allgemein</column>
       <column name="search_tags_fa"></column>
-      <column name="search_tags_sv">быть общим</column>
-      <column name="search_tags_ru"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru">быть общим</column>
       <column name="search_tags_zh_HK"></column>
       <column name="source">[1] {KGT:src}, [2] {HQ 5.2, p.20, Jun. 1996:src}</column>
     </table>
@@ -5808,11 +5811,11 @@ Some of the verb suffixes have a precise meaning when used with this verb, when 
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tIr:n}</column>
-      <column name="notes">Квадротритикаль это четырехдольная гибридизация пшеницы (рода Triticum) и ржи (род Secale).</column>
+      <column name="notes">Quadrotriticale is a four-lobed hybridization of wheat (genus Triticum) and rye (genus Secale)</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Квадротритикаль это четырехдольная гибридизация пшеницы (рода Triticum) и ржи (род Secale).</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components">{loS:n:1,num}, {pev:n:hyp}</column>
